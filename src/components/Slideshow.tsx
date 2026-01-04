@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useCallback, useState, useRef } from "react";
+import { useEffect, useCallback, useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -15,11 +15,7 @@ interface SlideshowProps {
 
 export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
   const router = useRouter();
-  const [touchStart, setTouchStart] = useState<number | null>(null);
-  const [touchEnd, setTouchEnd] = useState<number | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
-
-  const minSwipeDistance = 50;
 
   // Get immediate prev/next for navigation
   const prevImage = prevImages[0] ?? null;
@@ -60,28 +56,6 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, [goToPrev, goToNext, close]);
 
-  // Touch handlers for swipe
-  const onTouchStart = (e: React.TouchEvent) => {
-    setTouchEnd(null);
-    setTouchStart(e.targetTouches[0].clientX);
-  };
-
-  const onTouchMove = (e: React.TouchEvent) => {
-    setTouchEnd(e.targetTouches[0].clientX);
-  };
-
-  const onTouchEnd = () => {
-    if (!touchStart || !touchEnd) return;
-    const distance = touchStart - touchEnd;
-    const isLeftSwipe = distance > minSwipeDistance;
-    const isRightSwipe = distance < -minSwipeDistance;
-
-    if (isLeftSwipe) {
-      goToNext();
-    } else if (isRightSwipe) {
-      goToPrev();
-    }
-  };
 
   // Click outside image to close
   const handleBackdropClick = (e: React.MouseEvent) => {
@@ -95,9 +69,6 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
       ref={containerRef}
       className="fixed inset-0 z-50 bg-[var(--color-slideshow-bg)] flex items-center justify-center"
       onClick={handleBackdropClick}
-      onTouchStart={onTouchStart}
-      onTouchMove={onTouchMove}
-      onTouchEnd={onTouchEnd}
     >
       {/* Close button */}
       <button
@@ -125,7 +96,7 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
       {prevImage && (
         <button
           onClick={goToPrev}
-          className="absolute left-4 top-1/2 -translate-y-1/2 z-10 p-3 text-white/50 hover:text-white transition-colors hidden sm:block"
+          className="absolute left-4 top-1/2 -translate-y-1/2 z-10 p-3 text-white/50 hover:text-white transition-colors"
           aria-label="Previous image"
         >
           <svg
@@ -148,7 +119,7 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
       {nextImage && (
         <button
           onClick={goToNext}
-          className="absolute right-4 top-1/2 -translate-y-1/2 z-10 p-3 text-white/50 hover:text-white transition-colors hidden sm:block"
+          className="absolute right-4 top-1/2 -translate-y-1/2 z-10 p-3 text-white/50 hover:text-white transition-colors"
           aria-label="Next image"
         >
           <svg
