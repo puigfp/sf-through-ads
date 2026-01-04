@@ -17,7 +17,6 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
   const router = useRouter();
   const [touchStart, setTouchStart] = useState<number | null>(null);
   const [touchEnd, setTouchEnd] = useState<number | null>(null);
-  const [isLoading, setIsLoading] = useState(true);
   const containerRef = useRef<HTMLDivElement>(null);
 
   const minSwipeDistance = 50;
@@ -28,11 +27,6 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
 
   // Hidden preload images using Next.js Image components
   // These go through Next.js optimization pipeline unlike browser Image API
-
-  // Reset loading state when image changes
-  useEffect(() => {
-    setIsLoading(true);
-  }, [image.id]);
 
   const goToPrev = useCallback(() => {
     if (prevImage) {
@@ -183,13 +177,6 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
             maxWidth: '100%',
           }}
         >
-          {/* Loading spinner */}
-          {isLoading && (
-            <div className="absolute inset-0 flex items-center justify-center z-10">
-              <div className="w-8 h-8 border-2 border-white/20 border-t-white/60 rounded-full animate-spin" />
-            </div>
-          )}
-
           <Image
             src={`/images/${image.filename}`}
             alt={image.ai_generated_alt_text}
@@ -197,7 +184,6 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
             className="object-contain"
             sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
             priority
-            onLoad={() => setIsLoading(false)}
           />
 
           {/* Film-style date stamp */}
