@@ -210,26 +210,26 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
       {/* Hidden preload images - positioned off-screen to avoid layout issues */}
       <div className="absolute -top-full -left-full opacity-0 pointer-events-none">
         {prevImages.map((img) => (
-          <Image
-            key={`preload-prev-${img.id}`}
-            src={`/images/${img.filename}`}
-            alt=""
-            width={img.width}
-            height={img.height}
-            priority={false}
-            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
-          />
+          <div key={`preload-prev-${img.id}`} className="w-96 h-96 relative">
+            <Image
+              src={`/images/${img.filename}`}
+              alt=""
+              fill
+              priority={false}
+              sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
+            />
+          </div>
         ))}
         {nextImages.map((img) => (
-          <Image
-            key={`preload-next-${img.id}`}
-            src={`/images/${img.filename}`}
-            alt=""
-            width={img.width}
-            height={img.height}
-            priority={false}
-            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
-          />
+          <div key={`preload-next-${img.id}`} className="w-96 h-96 relative">
+            <Image
+              src={`/images/${img.filename}`}
+              alt=""
+              fill
+              priority={false}
+              sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
+            />
+          </div>
         ))}
       </div>
 

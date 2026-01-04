@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { ImageCard } from "./ImageCard";
 import { useInfiniteScroll } from "@/hooks/useInfiniteScroll";
 import { SITE_CONFIG } from "@/lib/config";
@@ -14,6 +15,11 @@ export function ImageGrid({ images }: ImageGridProps) {
     items: images,
     batchSize: SITE_CONFIG.gridBatchSize,
   });
+
+  // Preload the next batch of images that will become visible
+  const preloadItems = hasMore
+    ? images.slice(visibleItems.length, visibleItems.length + SITE_CONFIG.gridBatchSize)
+    : [];
 
   if (images.length === 0) {
     return (
@@ -48,6 +54,23 @@ export function ImageGrid({ images }: ImageGridProps) {
       {hasMore && (
         <div ref={sentinelRef} className="flex justify-center py-8">
           <div className="w-6 h-6 border-2 border-neutral-300 border-t-neutral-600 rounded-full animate-spin" />
+        </div>
+      )}
+
+      {/* Hidden preload images for upcoming batch - positioned off-screen */}
+      {preloadItems.length > 0 && (
+        <div className="absolute -top-full -left-full opacity-0 pointer-events-none">
+          {preloadItems.map((image) => (
+            <div key={`preload-grid-${image.id}`} className="w-0 h-0 relative">
+              <Image
+                src={`/images/${image.thumbnail_filename}`}
+                alt=""
+                fill
+                priority={false}
+                sizes={`(max-width: 640px) 50vw, (max-width: 1024px) 33vw, ${SITE_CONFIG.gridThumbnailSize}px`}
+              />
+            </div>
+          ))}
         </div>
       )}
     </div>
