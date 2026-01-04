@@ -1,4 +1,4 @@
-# Plan: Slideshow Image Preloading & Optimization
+# Plan: Slideshow Image Preloading (Browser API - Did Not Work)
 
 ## Problem
 
@@ -148,3 +148,11 @@ useEffect(() => {
 - **Fresh import**: Delete existing images and re-run import from originals
 - **PRELOAD_DEPTH = 2**: Preload 2 images in each direction
 - **Loading spinner**: Show while current image loads
+
+---
+
+## Outcome
+
+**This approach was implemented but did not work effectively in practice.** The browser's `new Image()` API creates HTTP requests that bypass Next.js's image optimization pipeline (WebP conversion, srcset generation, etc.), resulting in cached images that don't match what the Next.js `<Image>` component expects.
+
+**Solution:** Moved to Next.js-specific preloading using hidden `<Image>` components and `<Link prefetch>`. See `202601032346-nextjs-preloading-solutions.md` for the working implementation.

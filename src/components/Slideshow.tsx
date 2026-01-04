@@ -2,6 +2,7 @@
 
 import { useEffect, useCallback, useState, useRef } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import type { ImageEntry } from "@/lib/types";
 import { formatFilmDate } from "@/lib/utils";
@@ -25,19 +26,8 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
   const prevImage = prevImages[0] ?? null;
   const nextImage = nextImages[0] ?? null;
 
-  // Debug preloading
-  console.log(`Image ${image.id}: preloading ${prevImages.length} prev, ${nextImages.length} next`);
-
-  // Preload adjacent images using browser Image API
-  useEffect(() => {
-    const imagesToPreload = [...prevImages, ...nextImages];
-
-    imagesToPreload.forEach((img) => {
-      const imgElement = new window.Image();
-      imgElement.src = `/images/${img.filename}`;
-      console.log(`Preloading: ${img.filename}`);
-    });
-  }, [prevImages, nextImages]);
+  // Hidden preload images using Next.js Image components
+  // These go through Next.js optimization pipeline unlike browser Image API
 
   // Reset loading state when image changes
   useEffect(() => {
@@ -230,6 +220,44 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
       <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-neutral-500 text-xs font-mono">
         {image.id}
       </div>
+
+      {/* Hidden preload images - positioned off-screen to avoid layout issues */}
+      <div className="absolute -top-full -left-full opacity-0 pointer-events-none">
+        {prevImages.map((img) => (
+          <Image
+            key={`preload-prev-${img.id}`}
+            src={`/images/${img.filename}`}
+            alt=""
+            width={img.width}
+            height={img.height}
+            priority={false}
+            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
+          />
+        ))}
+        {nextImages.map((img) => (
+          <Image
+            key={`preload-next-${img.id}`}
+            src={`/images/${img.filename}`}
+            alt=""
+            width={img.width}
+            height={img.height}
+            priority={false}
+            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
+          />
+        ))}
+      </div>
+
+      {/* Link prefetch for adjacent pages - Next.js will preload page resources */}
+      {prevImage && (
+        <Link href={`/image/${prevImage.id}`} prefetch className="hidden">
+          <span />
+        </Link>
+      )}
+      {nextImage && (
+        <Link href={`/image/${nextImage.id}`} prefetch className="hidden">
+          <span />
+        </Link>
+      )}
 
     </div>
   );
