@@ -2,7 +2,7 @@
 
 ## Planning Mode
 
-When asked to "plan," create/iterate on a markdown plan in `plans/YYYYMMDDHHMM-plan-name.md` (24h format). Ask clarifying questions until the plan is detailed enough for another agent to execute without human input.
+When asked to "plan," create/iterate on a markdown plan in `plans/YYYYMMDDHHMM-plan-name.md` (24h format). Ask clarifying questions until the plan is detailed enough for another agent to execute without human input. Use date command to generate date.
 
 ## Execution mode
 

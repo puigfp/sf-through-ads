@@ -60,6 +60,6 @@ export default async function ImagePage({ params }: PageProps) {
 
   const { prev, next } = getAdjacentImages(imageId);
 
-  return <Slideshow image={image} prevImage={prev} nextImage={next} />;
+  return <Slideshow image={image} prevImages={prev} nextImages={next} />;
 }
 

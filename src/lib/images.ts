@@ -43,20 +43,25 @@ export function getImageById(id: number): ImageEntry | null {
 }
 
 /**
- * Get adjacent images for navigation (previous and next)
+ * Get adjacent images for navigation and preloading
+ * @param id - Current image ID
+ * @param depth - Number of images to fetch in each direction (default: 2)
+ * @returns Arrays of previous and next images (closest first)
  */
 export function getAdjacentImages(
-  id: number
-): { prev: ImageEntry | null; next: ImageEntry | null } {
+  id: number,
+  depth: number = 2
+): { prev: ImageEntry[]; next: ImageEntry[] } {
   const images = getAllImages();
   const index = images.findIndex((img) => img.id === id);
 
   if (index === -1) {
-    return { prev: null, next: null };
+    return { prev: [], next: [] };
   }
 
   return {
-    prev: index > 0 ? images[index - 1] : null,
-    next: index < images.length - 1 ? images[index + 1] : null,
+    // Slice previous images and reverse so closest is first
+    prev: images.slice(Math.max(0, index - depth), index).reverse(),
+    next: images.slice(index + 1, index + 1 + depth),
   };
 }

@@ -10,6 +10,7 @@ images:
     location:
       lat: 37.80112
       lng: -122.4362333333333
+    timezone: America/Los_Angeles
     ai_generated_alt_text: "The advertisement features the text 'Fin. The #1 AI Agent for customer service.' with 'FIN.AI' at the bottom, displayed on a bus stop sign with a distinctive bright red canopy, set against a dimly lit urban backdrop at dusk."
     description: ""
     tags: []
@@ -24,6 +25,7 @@ images:
     location:
       lat: 37.80104166666667
       lng: -122.43625
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement promotes CookUnity's corporate meals service, highlighting Ava's role in serving up hundreds of leads. The ad also features branding from Artisan with the website artisan.co and includes a distinctive image of Ava.
     description: ""
     tags: []
@@ -38,6 +40,7 @@ images:
     location:
       lat: 37.80093833333333
       lng: -122.4364616666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: An advertisement for NurtureOS features the slogan 'Calibrate Your Children in Real Time,' promoting lighting calibrated for cognitive focus and balance. It shows an image of a child on a sofa, wrapped in a blanket, with a QR code in the corner and the company name NurtureOS.ai at the bottom.
     description: ""
     tags: []
@@ -52,6 +55,7 @@ images:
     location:
       lat: 37.76974166666667
       lng: -122.4032216666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: "An advertisement at a bus stop in San Francisco displays the message 'LLMs love us. So do their builders. The #1 Search Infrastructure' with the brand name you.com and its logo, set against a simple blue and white background."
     description: ""
     tags: []
@@ -66,6 +70,7 @@ images:
     location:
       lat: 37.769745
       lng: -122.403205
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement for outset.ai features the tagline 'Human insight. Without human limits.' against an orange background, with a grid of diverse faces below. It highlights the company as 'The AI-powered research platform.'
     description: ""
     tags: []
@@ -80,6 +85,7 @@ images:
     location:
       lat: 37.771375
       lng: -122.4012966666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The billboard features an advertisement for Quantum Metric, with the text 'When what isn’t enough, meet why,' alongside a stylized depiction of a cat face with technological elements. It promotes Felix AI, described as 'The future of analytics,' on a dark background with pink accents.
     description: ""
     tags: []
@@ -94,6 +100,7 @@ images:
     location:
       lat: 37.77315333333333
       lng: -122.4076466666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: A Hive advertisement featuring two dogs wearing Santa hats and red scarves, with labels 'Not AI-Generated' and 'AI-Generated'. The text reads 'Detect deepfakes & AI-generated content', and includes the website hivedetect.ai and handle @hive_ai, set against a blue background with snowflakes.
     description: ""
     tags: []
@@ -108,6 +115,7 @@ images:
     location:
       lat: 37.77362
       lng: -122.4082416666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: "The advertisement features a billboard for Braintrust showcasing metrics such as 'Accuracy: 35.7%', 'Toxicity: 1.8%', and 'Satisfaction: 22.5%', with the slogan 'Build AI that works.' The sign is predominantly blue with white and multicolored text, positioned on a building in an urban setting."
     description: ""
     tags: []
@@ -122,6 +130,7 @@ images:
     location:
       lat: 37.77390333333334
       lng: -122.4086
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The billboard advertisement displays the message 'Agents don’t work without evals' with the brand name Arize above it, and includes the text 'npm i evals' in a code-like format. The background is a dark color with some text in white and pink, contrasting against a cloudy sky.
     description: ""
     tags: []
@@ -136,6 +145,7 @@ images:
     location:
       lat: 37.77738833333333
       lng: -122.41292
+    timezone: America/Los_Angeles
     ai_generated_alt_text: A billboard in San Francisco reads 'Losing FAITH in GOD? call (83) FOR-TRUTH' with 'Christian Aid Ministries' logo in the corner. The word 'FAITH' is bold and in a contrasting color.
     description: ""
     tags: []
@@ -150,6 +160,7 @@ images:
     location:
       lat: 37.7776
       lng: -122.4129116666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: A San Francisco bus stop advertisement featuring the text 'The leading database for AI' with the ClickHouse logo, and 'Trusted by CURSOR' beneath it. The ad is displayed under a red MUNI Rapid bus shelter.
     description: ""
     tags: []
@@ -164,6 +175,7 @@ images:
     location:
       lat: 37.80497166666667
       lng: -122.4118883333333
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement at the San Francisco bus stop features the text 'Develop your craft' with a geometric illustration of a keyboard, and the brand name 'Cursor' displayed at the bottom. Distinctive elements include a minimalist gray background and a wave-like red roof structure above the bus stop.
     description: ""
     tags: []
@@ -178,6 +190,7 @@ images:
     location:
       lat: 37.79074166666667
       lng: -122.4275583333333
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement features the brand 'outset.ai' with the message 'Listen to humans. Don’t replace them.' accompanied by images of three diverse individuals. The ad is displayed on a bus shelter with a red canopy in an urban setting.
     description: ""
     tags: []
@@ -192,6 +205,7 @@ images:
     location:
       lat: 37.800225
       lng: -122.4413616666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: A billboard in San Francisco with the message 'We are so back(end).' displayed in white text on a black background, featuring a small triangular logo. The advertisement is from the company 'Vercel,' known for its backend services.
     description: ""
     tags: []
@@ -206,6 +220,7 @@ images:
     location:
       lat: 37.80059666666666
       lng: -122.4382166666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The billboard advertisement in San Francisco features the text 'INTELLIGENT AF' promoting Brex, showcasing a credit card image with a dark background. It includes a red star icon, and the phrase 'AGENETIC FINANCE' and 'Brex' are prominently displayed.
     description: ""
     tags: []
@@ -220,6 +235,7 @@ images:
     location:
       lat: 37.78526666666667
       lng: -122.4306116666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement features a 'Friends With Benefits' program, promoting rewards such as points, birthday bonuses, and complimentary appetizers. It includes visual elements of people enjoying drinks in a bar setting and shows logos for brands like STK, Benihana, and Kona Grill.
     description: ""
     tags: []
@@ -234,6 +250,7 @@ images:
     location:
       lat: 37.80035833333334
       lng: -122.4396366666667
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement features a slogan, 'You don't have to move to NY to find love. Just ask Ona,' with the company name ONA and website ona.ai. It includes an image of a person overlooking a scenic landscape with a painted, artistic effect.
     description: ""
     tags: []
@@ -248,6 +265,7 @@ images:
     location:
       lat: 37.80507
       lng: -122.412055
+    timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement shows text stating, 'Artisans won’t get caught on the kiss-cam with HR,' with imagery of blurred faces and heart icons, promoting the brand Artisan with the message 'The era of AI Employees is here.'
     description: ""
     tags: []

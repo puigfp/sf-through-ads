@@ -12,7 +12,8 @@ export interface ImageEntry {
   taken_at: string;
   width: number;
   height: number;
-  location: ImageLocation | null;
+  location: ImageLocation;
+  timezone: string;
   ai_generated_alt_text: string;
   description: string;
   tags: string[];

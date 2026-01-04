@@ -8,17 +8,27 @@ import { formatFilmDate } from "@/lib/utils";
 
 interface SlideshowProps {
   image: ImageEntry;
-  prevImage: ImageEntry | null;
-  nextImage: ImageEntry | null;
+  prevImages: ImageEntry[];
+  nextImages: ImageEntry[];
 }
 
-export function Slideshow({ image, prevImage, nextImage }: SlideshowProps) {
+export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
   const router = useRouter();
   const [touchStart, setTouchStart] = useState<number | null>(null);
   const [touchEnd, setTouchEnd] = useState<number | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
   const containerRef = useRef<HTMLDivElement>(null);
 
   const minSwipeDistance = 50;
+
+  // Get immediate prev/next for navigation
+  const prevImage = prevImages[0] ?? null;
+  const nextImage = nextImages[0] ?? null;
+
+  // Reset loading state when image changes
+  useEffect(() => {
+    setIsLoading(true);
+  }, [image.id]);
 
   const goToPrev = useCallback(() => {
     if (prevImage) {
@@ -169,18 +179,26 @@ export function Slideshow({ image, prevImage, nextImage }: SlideshowProps) {
             maxWidth: '100%',
           }}
         >
+          {/* Loading spinner */}
+          {isLoading && (
+            <div className="absolute inset-0 flex items-center justify-center z-10">
+              <div className="w-8 h-8 border-2 border-white/20 border-t-white/60 rounded-full animate-spin" />
+            </div>
+          )}
+
           <Image
             src={`/images/${image.filename}`}
             alt={image.ai_generated_alt_text}
             fill
             className="object-contain"
-            sizes="(max-width: 1280px) 100vw, 1280px"
+            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
             priority
+            onLoad={() => setIsLoading(false)}
           />
 
           {/* Film-style date stamp */}
           <div className="absolute bottom-1 right-1 sm:bottom-2 sm:right-2 font-mono text-[10px] sm:text-xs text-orange-400/70 whitespace-nowrap">
-            {formatFilmDate(image.taken_at, image.location)}
+            {formatFilmDate(image.taken_at, image.location, image.timezone)}
           </div>
         </div>
       </div>
@@ -197,6 +215,28 @@ export function Slideshow({ image, prevImage, nextImage }: SlideshowProps) {
       {/* Navigation dots/counter */}
       <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-neutral-500 text-xs font-mono">
         {image.id}
+      </div>
+
+      {/* Preload adjacent images (hidden) */}
+      <div className="hidden">
+        {prevImages.map((img) => (
+          <Image
+            key={img.id}
+            src={`/images/${img.filename}`}
+            alt=""
+            fill
+            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
+          />
+        ))}
+        {nextImages.map((img) => (
+          <Image
+            key={img.id}
+            src={`/images/${img.filename}`}
+            alt=""
+            fill
+            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
+          />
+        ))}
       </div>
     </div>
   );

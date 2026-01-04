@@ -7,6 +7,7 @@ import sharp from "sharp";
 import exifr from "exifr";
 import YAML from "yaml";
 import OpenAI from "openai";
+import { find as findTimezone } from "geo-tz";
 
 // Configuration
 const PUBLIC_IMAGES_DIR = path.join(process.cwd(), "public/images");
@@ -34,7 +35,8 @@ interface ImageEntry {
   taken_at: string;
   width: number;
   height: number;
-  location: ImageLocation | null;
+  location: ImageLocation;
+  timezone: string;
   ai_generated_alt_text: string;
   description: string;
   tags: string[];
@@ -94,7 +96,8 @@ async function extractExifData(
   convertedJpegPath?: string
 ): Promise<{
   takenAt: Date;
-  location: ImageLocation | null;
+  location: ImageLocation;
+  timezone: string;
   width: number;
   height: number;
 }> {
@@ -157,7 +160,19 @@ async function extractExifData(
     takenAt = stats.mtime;
   }
 
-  return { takenAt, location, width, height };
+  // GPS location is required
+  if (!location) {
+    throw new Error(`No GPS coordinates found in ${path.basename(filePath)}`);
+  }
+
+  // Lookup timezone from GPS coordinates
+  const timezones = findTimezone(location.lat, location.lng);
+  if (timezones.length === 0) {
+    throw new Error(`Could not determine timezone for coordinates ${location.lat}, ${location.lng}`);
+  }
+  const timezone = timezones[0];
+
+  return { takenAt, location, timezone, width, height };
 }
 
 /**
@@ -295,6 +310,7 @@ async function processImage(
     const height = metadata.height!;
 
     console.log(`  📐 Dimensions: ${width}x${height}`);
+    console.log(`  🌍 Location: ${exifData.location.lat.toFixed(4)}, ${exifData.location.lng.toFixed(4)} (${exifData.timezone})`);
 
     // Generate alt text with AI (cached by hash)
     const altText = await generateAltText(imageBuffer, hash);
@@ -338,6 +354,7 @@ async function processImage(
       width,
       height,
       location: exifData.location,
+      timezone: exifData.timezone,
       ai_generated_alt_text: altText,
       description: "",
       tags: [],

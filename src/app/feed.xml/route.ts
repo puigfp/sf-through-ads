@@ -10,17 +10,19 @@ function escapeXml(text: string): string {
     .replace(/'/g, "&apos;");
 }
 
-function formatRssTitle(date: Date): string {
+function formatRssTitle(date: Date, timezone: string): string {
   return (
     date.toLocaleDateString("en-US", {
       month: "short",
       day: "numeric",
       year: "numeric",
+      timeZone: timezone,
     }) +
     " at " +
     date.toLocaleTimeString("en-US", {
       hour: "numeric",
       minute: "2-digit",
+      timeZone: timezone,
     })
   );
 }
@@ -30,7 +32,7 @@ export async function GET() {
 
   const items = images
     .map((img) => {
-      const title = formatRssTitle(new Date(img.taken_at));
+      const title = formatRssTitle(new Date(img.taken_at), img.timezone);
       const description = img.description
         ? `<img src="${SITE_CONFIG.url}/images/${img.filename}" /><p>${escapeXml(img.description)}</p>`
         : `<img src="${SITE_CONFIG.url}/images/${img.filename}" />`;

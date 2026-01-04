@@ -1,5 +1,5 @@
 {
-  "name": "sf-through-ads",
+  "name": "sf-ads-temp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
     "import-images": "dotenvx run -- tsx scripts/import-images.ts"
   },
   "dependencies": {
+    "geo-tz": "^8.1.4",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
