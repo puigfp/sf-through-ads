@@ -25,6 +25,20 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
   const prevImage = prevImages[0] ?? null;
   const nextImage = nextImages[0] ?? null;
 
+  // Debug preloading
+  console.log(`Image ${image.id}: preloading ${prevImages.length} prev, ${nextImages.length} next`);
+
+  // Preload adjacent images using browser Image API
+  useEffect(() => {
+    const imagesToPreload = [...prevImages, ...nextImages];
+
+    imagesToPreload.forEach((img) => {
+      const imgElement = new window.Image();
+      imgElement.src = `/images/${img.filename}`;
+      console.log(`Preloading: ${img.filename}`);
+    });
+  }, [prevImages, nextImages]);
+
   // Reset loading state when image changes
   useEffect(() => {
     setIsLoading(true);
@@ -217,27 +231,6 @@ export function Slideshow({ image, prevImages, nextImages }: SlideshowProps) {
         {image.id}
       </div>
 
-      {/* Preload adjacent images (hidden) */}
-      <div className="hidden">
-        {prevImages.map((img) => (
-          <Image
-            key={img.id}
-            src={`/images/${img.filename}`}
-            alt=""
-            fill
-            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
-          />
-        ))}
-        {nextImages.map((img) => (
-          <Image
-            key={img.id}
-            src={`/images/${img.filename}`}
-            alt=""
-            fill
-            sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) calc(100vw - 8rem), 1024px"
-          />
-        ))}
-      </div>
     </div>
   );
 }
