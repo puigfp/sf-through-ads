@@ -33,6 +33,7 @@ interface ImageEntry {
   original_path: string;
   original_hash: string;
   taken_at: string;
+  imported_at: string;
   width: number;
   height: number;
   location: ImageLocation;
@@ -351,6 +352,7 @@ async function processImage(
       original_path: filename,
       original_hash: hash,
       taken_at: exifData.takenAt.toISOString(),
+      imported_at: new Date().toISOString(),
       width,
       height,
       location: exifData.location,

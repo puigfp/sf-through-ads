@@ -10,6 +10,7 @@ export interface ImageEntry {
   original_path: string;
   original_hash: string;
   taken_at: string;
+  imported_at: string;
   width: number;
   height: number;
   location: ImageLocation;

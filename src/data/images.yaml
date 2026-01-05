@@ -5,6 +5,7 @@ images:
     original_path: IMG_8659.HEIC
     original_hash: sha256:16acd3f53c8a49228c4d1f1017248b4149f214f0efe006603bdab3afbef27fc6
     taken_at: 2026-01-04T01:37:44.000Z
+    imported_at: 2026-01-05T05:57:25.938Z
     width: 4284
     height: 5712
     location:
@@ -20,6 +21,7 @@ images:
     original_path: IMG_8658.HEIC
     original_hash: sha256:a20010c33bf5f6a837a75ba3c73babf91c3903df57c42bd738eb56bd7df68a08
     taken_at: 2026-01-04T01:37:32.000Z
+    imported_at: 2026-01-05T05:57:25.200Z
     width: 3024
     height: 4032
     location:
@@ -35,6 +37,7 @@ images:
     original_path: IMG_8657.HEIC
     original_hash: sha256:c06d6a1c9017d3e3155519226107b559a96bd3c204401b16789350578a335d60
     taken_at: 2026-01-04T01:36:57.000Z
+    imported_at: 2026-01-05T05:57:24.688Z
     width: 4284
     height: 5712
     location:
@@ -50,6 +53,7 @@ images:
     original_path: IMG_8654.HEIC
     original_hash: sha256:0f515021a4a33d0d4fbd386fdbd232f030e41ad1945790cf032e59b2eaae121c
     taken_at: 2026-01-03T22:17:14.000Z
+    imported_at: 2026-01-05T05:57:23.904Z
     width: 3024
     height: 4032
     location:
@@ -65,6 +69,7 @@ images:
     original_path: IMG_8653.HEIC
     original_hash: sha256:f7192cd76561b3047e4c604f1332ed99ab8c0875d8104fc7f4013dd2b70345aa
     taken_at: 2026-01-03T22:17:08.000Z
+    imported_at: 2026-01-05T05:57:23.409Z
     width: 3024
     height: 4032
     location:
@@ -80,6 +85,7 @@ images:
     original_path: IMG_8650.HEIC
     original_hash: sha256:dbbc6e3d5488417b561ba8c2ef3060d233fdde74e7bd104b11ded401a530a0b4
     taken_at: 2026-01-03T21:35:32.000Z
+    imported_at: 2026-01-05T05:57:22.761Z
     width: 4032
     height: 3024
     location:
@@ -95,6 +101,7 @@ images:
     original_path: IMG_8645.HEIC
     original_hash: sha256:4ae5895fceae1b645c2d454fc2766861061cf5118ec43259655824540cf84800
     taken_at: 2026-01-03T19:19:31.000Z
+    imported_at: 2026-01-05T05:57:22.343Z
     width: 5712
     height: 4284
     location:
@@ -110,6 +117,7 @@ images:
     original_path: IMG_8642.HEIC
     original_hash: sha256:0c152de22c695464ecd57bb4f46d91eb25ef49c27f45d7f5954f2d9ab16bc474
     taken_at: 2026-01-03T19:18:26.000Z
+    imported_at: 2026-01-05T05:57:21.754Z
     width: 5712
     height: 4284
     location:
@@ -125,6 +133,7 @@ images:
     original_path: IMG_8640.HEIC
     original_hash: sha256:58feed5726079c6351cc463ec7fa8ff109586d30e4267e21004503866a1d4688
     taken_at: 2026-01-03T19:17:29.000Z
+    imported_at: 2026-01-05T05:57:21.112Z
     width: 5712
     height: 4284
     location:
@@ -140,6 +149,7 @@ images:
     original_path: IMG_8639.HEIC
     original_hash: sha256:239d18df3066ba9eab94fb80a266205d22460082786f9098e88b733732bc4962
     taken_at: 2026-01-03T19:11:03.000Z
+    imported_at: 2026-01-05T05:57:20.544Z
     width: 5712
     height: 4284
     location:
@@ -155,6 +165,7 @@ images:
     original_path: IMG_8637.HEIC
     original_hash: sha256:4d88f1f5a6cb096dea0ff734350166bdb6dd91707c456a00d8e9315c663e56d2
     taken_at: 2026-01-03T19:09:57.000Z
+    imported_at: 2026-01-05T05:57:19.935Z
     width: 3024
     height: 4032
     location:
@@ -170,6 +181,7 @@ images:
     original_path: IMG_8573.HEIC
     original_hash: sha256:7ceebec5bbceadabe79af27076141fd163ed735f1945972c118946b7076ddf5d
     taken_at: 2025-12-30T22:32:20.000Z
+    imported_at: 2026-01-05T05:57:19.421Z
     width: 4284
     height: 5712
     location:
@@ -185,6 +197,7 @@ images:
     original_path: IMG_8558.HEIC
     original_hash: sha256:a565a7e3b7e3a69e738e080aee3555093cd9b4618630e8ef78cc906a649c7dbf
     taken_at: 2025-12-28T21:12:46.000Z
+    imported_at: 2026-01-05T05:57:18.646Z
     width: 3024
     height: 4032
     location:
@@ -200,6 +213,7 @@ images:
     original_path: IMG_8491.HEIC
     original_hash: sha256:7b458d9ce6d9a6264cde318e352f51330d2f085260e99c68adc23f73601fecbc
     taken_at: 2025-12-26T18:54:56.000Z
+    imported_at: 2026-01-05T05:57:18.136Z
     width: 3024
     height: 4032
     location:
@@ -215,6 +229,7 @@ images:
     original_path: IMG_8482.HEIC
     original_hash: sha256:beab449812c7e2e5d7727d3a9ad4fd80e929372b754ce85464ecf15769d9f1ad
     taken_at: 2025-12-25T23:45:40.000Z
+    imported_at: 2026-01-05T05:57:17.650Z
     width: 4032
     height: 3024
     location:
@@ -230,6 +245,7 @@ images:
     original_path: IMG_8417.HEIC
     original_hash: sha256:835ec1bca3feb0d1e1894b58d0d7bb55f9f25f0b1608453b85583bceec2898e9
     taken_at: 2025-12-20T23:29:53.000Z
+    imported_at: 2026-01-05T05:57:17.238Z
     width: 3024
     height: 4032
     location:
@@ -245,6 +261,7 @@ images:
     original_path: IMG_8279.HEIC
     original_hash: sha256:cd79908f2ae60bdb7f3e65188cb28910be5fa4b594a433973d0c9a61c59b49d7
     taken_at: 2025-12-07T03:49:34.000Z
+    imported_at: 2026-01-05T05:57:16.759Z
     width: 3024
     height: 4032
     location:
@@ -260,6 +277,7 @@ images:
     original_path: IMG_8124.HEIC
     original_hash: sha256:11bb62dabbdbfe99d0e5b43f1219b81f373fb3d278f2c52f22ccaecc5b8c5fc6
     taken_at: 2025-11-25T02:51:02.000Z
+    imported_at: 2026-01-05T05:57:16.269Z
     width: 3024
     height: 4032
     location:

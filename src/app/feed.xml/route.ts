@@ -30,7 +30,12 @@ function formatRssTitle(date: Date, timezone: string): string {
 export async function GET() {
   const images = getAllImages();
 
-  const items = images
+  // Sort by imported_at descending (newest imports first)
+  const sortedImages = [...images].sort(
+    (a, b) => new Date(b.imported_at).getTime() - new Date(a.imported_at).getTime()
+  );
+
+  const items = sortedImages
     .map((img) => {
       const title = formatRssTitle(new Date(img.taken_at), img.timezone);
       const description = img.description
@@ -42,7 +47,7 @@ export async function GET() {
       <title>${escapeXml(title)}</title>
       <link>${SITE_CONFIG.url}/image/${img.id}</link>
       <description><![CDATA[${description}]]></description>
-      <pubDate>${new Date(img.taken_at).toUTCString()}</pubDate>
+      <pubDate>${new Date(img.imported_at).toUTCString()}</pubDate>
       <guid isPermaLink="true">${SITE_CONFIG.url}/image/${img.id}</guid>
     </item>`;
     })
