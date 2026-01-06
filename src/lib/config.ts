@@ -1,5 +1,5 @@
 export const SITE_CONFIG = {
-  name: "SF Through Ads",
+  name: "SF through ads",
   description:
     "A visual collection of unique advertisements from San Francisco",
   url: "https://sf-through-ads.vercel.app",

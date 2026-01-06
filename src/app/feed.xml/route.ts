@@ -12,6 +12,7 @@ function escapeXml(text: string): string {
 
 function formatRssTitle(date: Date, timezone: string): string {
   return (
+    "Taken on " +
     date.toLocaleDateString("en-US", {
       month: "short",
       day: "numeric",
@@ -47,7 +48,7 @@ export async function GET() {
       <title>${escapeXml(title)}</title>
       <link>${SITE_CONFIG.url}/image/${img.id}</link>
       <description><![CDATA[${description}]]></description>
-      <pubDate>${new Date(img.imported_at).toUTCString()}</pubDate>
+      <pubDate>${new Date(img.taken_at).toUTCString()}</pubDate>
       <guid isPermaLink="true">${SITE_CONFIG.url}/image/${img.id}</guid>
     </item>`;
     })
