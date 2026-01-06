@@ -16,6 +16,9 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: SITE_CONFIG.name,
   description: SITE_CONFIG.description,
+  icons: {
+    icon: "/favicon.png",
+  },
   openGraph: {
     title: SITE_CONFIG.name,
     description: SITE_CONFIG.description,
