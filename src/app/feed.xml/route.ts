@@ -40,8 +40,8 @@ export async function GET() {
     .map((img) => {
       const title = formatRssTitle(new Date(img.taken_at), img.timezone);
       const description = img.description
-        ? `<img src="${SITE_CONFIG.url}/images/${img.filename}" /><p>${escapeXml(img.description)}</p>`
-        : `<img src="${SITE_CONFIG.url}/images/${img.filename}" />`;
+        ? `<img src="${SITE_CONFIG.url}/images/${img.filename}" alt="${img.ai_generated_alt_text}" /><p>${escapeXml(img.description)}</p>`
+        : `<img src="${SITE_CONFIG.url}/images/${img.filename}" alt="${img.ai_generated_alt_text}" />`;
 
       return `
     <item>
