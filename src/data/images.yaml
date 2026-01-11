@@ -351,6 +351,22 @@ images:
     ai_generated_alt_text: The advertisement features a 'Friends With Benefits' program, promoting rewards such as points, birthday bonuses, and complimentary appetizers. It includes visual elements of people enjoying drinks in a bar setting and shows logos for brands like STK, Benihana, and Kona Grill.
     description: ""
     tags: []
+  - id: 25
+    filename: 00025.jpg
+    thumbnail_filename: 00025_thumb.jpg
+    original_path: IMG_8313.jpeg
+    original_hash: sha256:aab5c610e02c335976e46459e128ee9b76c2b9dfd24cbeac5f11501796dd18c7
+    taken_at: 2025-12-08T21:45:47.000Z
+    imported_at: 2026-01-11T04:51:32.741Z
+    width: 1610
+    height: 2245
+    location:
+      lat: 37.80484444444444
+      lng: 122.41173611111111
+    timezone: Etc/GMT-8
+    ai_generated_alt_text: An advertisement for AbbyAI is displayed on a San Francisco billboard, featuring the text 'Humanity, STOP FIRING HUMANS,' with a color scheme of purple, white, and black. The ad includes a QR code and the phrase 'Your Receptionist Partner For The Future' along with the website Abby.com.
+    description: ""
+    tags: []
   - id: 2
     filename: 00002.jpg
     thumbnail_filename: 00002_thumb.jpg

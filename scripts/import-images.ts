@@ -57,6 +57,23 @@ async function computeFileHash(filePath: string): Promise<string> {
 }
 
 /**
+ * Convert DMS (degrees, minutes, seconds) to decimal degrees
+ */
+function dmsToDecimal(dmsString: string): number {
+  // Handle both formats: "37,48,17.44" (DMS) and "37.8043" (decimal)
+  if (dmsString.includes(',')) {
+    // DMS format: degrees,minutes,seconds
+    const parts = dmsString.split(',').map(p => parseFloat(p.trim()));
+    if (parts.length === 3) {
+      const [degrees, minutes, seconds] = parts;
+      return degrees + (minutes / 60) + (seconds / 3600);
+    }
+  }
+  // Decimal format or fallback
+  return parseFloat(dmsString);
+}
+
+/**
  * Extract EXIF from HEIC using macOS mdls command
  */
 function extractHeicExifViaMdls(filePath: string): {
@@ -77,12 +94,12 @@ function extractHeicExifViaMdls(filePath: string): {
       takenAt = new Date(dateMatch[1].trim());
     }
 
-    const latMatch = output.match(/kMDItemLatitude\s*=\s*([\d.-]+)/);
-    const lngMatch = output.match(/kMDItemLongitude\s*=\s*([\d.-]+)/);
+    const latMatch = output.match(/kMDItemLatitude\s*=\s*([^\s]+)/);
+    const lngMatch = output.match(/kMDItemLongitude\s*=\s*([^\s]+)/);
     if (latMatch && lngMatch) {
       location = {
-        lat: parseFloat(latMatch[1]),
-        lng: parseFloat(lngMatch[1]),
+        lat: dmsToDecimal(latMatch[1]),
+        lng: dmsToDecimal(lngMatch[1]),
       };
     }
 
@@ -141,10 +158,10 @@ async function extractExifData(
     }
 
     // Use exifr location if we don't have one from mdls
-    if (!location && exif?.GPSLatitude && exif?.GPSLongitude) {
+    if (!location && exif?.latitude && exif?.longitude) {
       location = {
-        lat: exif.GPSLatitude,
-        lng: exif.GPSLongitude,
+        lat: exif.latitude,
+        lng: exif.longitude,
       };
     }
 
