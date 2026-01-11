@@ -47,6 +47,22 @@ images:
     ai_generated_alt_text: The advertisement reads 'San Francisco will eat you alive if you don’t hustle,' attributed to a neighbor in SoMa, and promotes outset.ai, featuring a QR code and an invitation to share opinions about San Francisco. The design is minimal, with bold text on a plain background.
     description: ""
     tags: []
+  - id: 28
+    filename: 00028.jpg
+    thumbnail_filename: 00028_thumb.jpg
+    original_path: IMG_8718.HEIC
+    original_hash: sha256:8792bb6e5203753245b4202178cfc14ec10e6cb6b7ff15ee45940f389bb2221e
+    taken_at: 2026-01-11T01:12:13.000Z
+    imported_at: 2026-01-11T05:43:26.101Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.79072
+      lng: -122.4277416666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus displays a playful message 'u up? SEND PICKS' with the Sleeper brand prominently featured. It includes a cartoon character and showcases a fantasy sports app interface with colorful graphics.
+    description: ""
+    tags: []
   - id: 21
     filename: 00021.jpg
     thumbnail_filename: 00021_thumb.jpg
@@ -93,6 +109,22 @@ images:
       lng: -122.4253833333333
     timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement for NurtureOS highlights the slogan 'Instinct Falters. Data Doesn’t.' with a focus on child development supported by data. It shows an image of a smiling couple looking at a tablet, and includes a QR code and performance overview graphics, emphasizing AI-driven insights.
+    description: ""
+    tags: []
+  - id: 27
+    filename: 00027.jpg
+    thumbnail_filename: 00027_thumb.jpg
+    original_path: IMG_8693.HEIC
+    original_hash: sha256:61907eb6259d06d45f9b4000ec1ba761cca16f86f680bb78728fc99821bc0e63
+    taken_at: 2026-01-07T06:07:11.000Z
+    imported_at: 2026-01-11T05:43:19.845Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80453666666666
+      lng: -122.4253
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement for Artisan featuring a digital interface and schedule, promoting Ava, the AI BDR, with the message 'Fill your calendar at 30% of a human BDR’s salary.' The Artisan logo and website artisan.co are displayed prominently.
     description: ""
     tags: []
   - id: 26
