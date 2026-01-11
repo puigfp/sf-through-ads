@@ -95,6 +95,22 @@ images:
     ai_generated_alt_text: The advertisement for NurtureOS highlights the slogan 'Instinct Falters. Data Doesn’t.' with a focus on child development supported by data. It shows an image of a smiling couple looking at a tablet, and includes a QR code and performance overview graphics, emphasizing AI-driven insights.
     description: ""
     tags: []
+  - id: 26
+    filename: 00026.jpg
+    thumbnail_filename: 00026_thumb.jpg
+    original_path: IMG_8690.HEIC
+    original_hash: sha256:2b12c871f61154ab8d2dbbc5b112446256fac6c47e58f8b92e6423ed61abff1b
+    taken_at: 2026-01-06T21:19:34.000Z
+    imported_at: 2026-01-11T05:39:22.767Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.801525
+      lng: -122.4118333333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A billboard advertisement in San Francisco features the text 'Agents echo. echo. echo. You play.' with the brand name Graphite, set against a simple gray background. The design is minimalistic, focusing primarily on the text.
+    description: ""
+    tags: []
   - id: 18
     filename: 00018.jpg
     thumbnail_filename: 00018_thumb.jpg
