@@ -31,10 +31,8 @@ function formatRssTitle(date: Date, timezone: string): string {
 export async function GET() {
   const images = getAllImages();
 
-  // Sort by imported_at descending (newest imports first)
-  const sortedImages = [...images].sort(
-    (a, b) => new Date(b.imported_at).getTime() - new Date(a.imported_at).getTime()
-  );
+  // Sort by id descending (newest images first)
+  const sortedImages = [...images].sort((a, b) => b.id - a.id);
 
   const items = sortedImages
     .map((img) => {
