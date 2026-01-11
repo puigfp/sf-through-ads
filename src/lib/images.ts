@@ -24,14 +24,12 @@ function loadImagesYaml(): ImageEntry[] {
 }
 
 /**
- * Get all images sorted by taken_at descending (newest first)
+ * Get all images sorted by id descending (newest first)
  */
 export function getAllImages(): ImageEntry[] {
   const images = loadImagesYaml();
-  // Already sorted in YAML, but ensure order
-  return [...images].sort(
-    (a, b) => new Date(b.taken_at).getTime() - new Date(a.taken_at).getTime()
-  );
+  // Sort by id descending (newest images first)
+  return [...images].sort((a, b) => b.id - a.id);
 }
 
 /**
