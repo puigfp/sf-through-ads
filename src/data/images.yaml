@@ -1,4 +1,100 @@
 images:
+  - id: 24
+    filename: 00024.jpg
+    thumbnail_filename: 00024_thumb.jpg
+    original_path: IMG_8723.HEIC
+    original_hash: sha256:8eb38fb27ad529159488e4e09a4cc8fb86d5ded8d9ef7ddf6d9a6ff6cd1290db
+    taken_at: 2026-01-11T02:10:10.000Z
+    imported_at: 2026-01-11T04:38:46.366Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.789825
+      lng: -122.4337916666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the words 'Human,' 'Nature,' and 'Machine' over vibrant, abstract backgrounds, with a silhouette of a person. The brand name 'enveda' is displayed at the bottom along with the website 'enveda.com.'
+    description: ""
+    tags: []
+  - id: 23
+    filename: 00023.jpg
+    thumbnail_filename: 00023_thumb.jpg
+    original_path: IMG_8722.HEIC
+    original_hash: sha256:dbafe3b076252030773a5220abd2c865bde84d7710f8162f9fba6c2e05526d18
+    taken_at: 2026-01-11T02:09:56.000Z
+    imported_at: 2026-01-11T04:38:39.339Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.78984166666667
+      lng: -122.43383
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for Witness AI, promoting 'AI-Native Security,' features bold text with phrases partially obscured by orange bars, prominently displaying 'WORK WITHOUT DOUBT.' The glass of the advertisement board appears cracked.
+    description: ""
+    tags: []
+  - id: 22
+    filename: 00022.jpg
+    thumbnail_filename: 00022_thumb.jpg
+    original_path: IMG_8721.HEIC
+    original_hash: sha256:e4a915f149136ffb52e118316adba76951022346590511915a1148eb13c8d40b
+    taken_at: 2026-01-11T01:12:34.000Z
+    imported_at: 2026-01-11T04:38:34.809Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79076166666667
+      lng: -122.4274966666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement reads 'San Francisco will eat you alive if you don’t hustle,' attributed to a neighbor in SoMa, and promotes outset.ai, featuring a QR code and an invitation to share opinions about San Francisco. The design is minimal, with bold text on a plain background.
+    description: ""
+    tags: []
+  - id: 21
+    filename: 00021.jpg
+    thumbnail_filename: 00021_thumb.jpg
+    original_path: IMG_8717.HEIC
+    original_hash: sha256:9c260f0f58c0f50ffbafd6b49d8e3b5beb95184addb9e9eeeadecdbf3a8eba7c
+    taken_at: 2026-01-11T01:11:07.000Z
+    imported_at: 2026-01-11T04:38:29.248Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79055333333334
+      lng: -122.42897
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The billboard features a man smiling, with text in Chinese promoting health insurance options from Covered California. A logo and website CoveredCA.com/Chinese are visible at the bottom, implying accessibility in various languages.
+    description: ""
+    tags: []
+  - id: 20
+    filename: 00020.jpg
+    thumbnail_filename: 00020_thumb.jpg
+    original_path: IMG_8716.HEIC
+    original_hash: sha256:790b0d196d30fe19da83eade8c7a899717589061f08866be36ae034c2cb8b76c
+    taken_at: 2026-01-11T01:10:55.000Z
+    imported_at: 2026-01-11T04:38:24.704Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79054166666667
+      lng: -122.42903
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement promotes using Clipper cards for seamless public transportation access in the Bay Area, highlighting contactless payment options. It features an image of a person tapping a card on a reader, with Clipper's logo and a QR code at the bottom.
+    description: ""
+    tags: []
+  - id: 19
+    filename: 00019.jpg
+    thumbnail_filename: 00019_thumb.jpg
+    original_path: IMG_8706.HEIC
+    original_hash: sha256:a517513e1527b57f8a7a6ca2b5884f70497d4878918c110bc5b93a69ddde0594
+    taken_at: 2026-01-10T07:02:25.000Z
+    imported_at: 2026-01-11T04:38:19.540Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80487
+      lng: -122.4253833333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for NurtureOS highlights the slogan 'Instinct Falters. Data Doesn’t.' with a focus on child development supported by data. It shows an image of a smiling couple looking at a tablet, and includes a QR code and performance overview graphics, emphasizing AI-driven insights.
+    description: ""
+    tags: []
   - id: 18
     filename: 00018.jpg
     thumbnail_filename: 00018_thumb.jpg
