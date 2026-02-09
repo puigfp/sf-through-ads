@@ -1,4 +1,180 @@
 images:
+  - id: 39
+    filename: 00039.jpg
+    thumbnail_filename: 00039_thumb.jpg
+    original_path: IMG_8837.HEIC
+    original_hash: sha256:cec1004441b895aee2211cad4b3072fe62ae7a603e971a967d89924804709dff
+    taken_at: 2026-02-08T23:09:19.000Z
+    imported_at: 2026-02-09T04:18:31.822Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.79031166666667
+      lng: -122.43068
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Bus advertisement in San Francisco promoting Modal with the slogan 'AI infra that developers love.' The design features digital circuit patterns, highlighting the tech theme, and includes a green and black color scheme.
+    description: ""
+    tags: []
+  - id: 38
+    filename: 00038.jpg
+    thumbnail_filename: 00038_thumb.jpg
+    original_path: IMG_8836.HEIC
+    original_hash: sha256:2279b522481d0b9f766aa40186edb2536e9db9a6e4522639d188f1931aec0bdb
+    taken_at: 2026-02-08T23:00:02.000Z
+    imported_at: 2026-02-09T04:18:25.182Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78816166666667
+      lng: -122.43367
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for Kalshi features a sports betting match-up between 'SEA vs NE' with odds and potential winnings listed. It includes a stylized image of two football players and a QR code, set against a backdrop of vibrant blue and green colors.
+    description: ""
+    tags: []
+  - id: 37
+    filename: 00037.jpg
+    thumbnail_filename: 00037_thumb.jpg
+    original_path: IMG_8826.HEIC
+    original_hash: sha256:00d5089a4e487685d2095777b4a9f01f3e4ea6da98c59e08f005ab6d78dcb73b
+    taken_at: 2026-02-07T22:50:34.000Z
+    imported_at: 2026-02-09T04:18:18.242Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.69169666666667
+      lng: -122.0757361666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement promotes the use of contactless banking cards for public transportation in the Bay Area, featuring an image of a person tapping a card on a reader. The Clipper brand is visible with a blue background and logo on the right side.
+    description: ""
+    tags: []
+  - id: 36
+    filename: 00036.jpg
+    thumbnail_filename: 00036_thumb.jpg
+    original_path: IMG_8812.HEIC
+    original_hash: sha256:fbac24c82aaad3d04c270748fcd7b7cd3a752f23f57e3b4d44214bac1ece5221
+    taken_at: 2026-02-04T02:20:58.000Z
+    imported_at: 2026-02-09T04:18:12.008Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.77640333333333
+      lng: -122.3945616666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Billboard at a San Francisco station featuring the text 'Scale confidently.' with a graph line, promoting 'together ai' and 'The AI Native Cloud'. The advertisement is set against a dark background and is located above a glass facade entrance.
+    description: ""
+    tags: []
+  - id: 35
+    filename: 00035.jpg
+    thumbnail_filename: 00035_thumb.jpg
+    original_path: IMG_8804.HEIC
+    original_hash: sha256:68143c1902e6659b030e3c07116cc9750f7ba33ded14b6cc4e5b005a15e79fe6
+    taken_at: 2026-02-02T01:35:54.000Z
+    imported_at: 2026-02-09T04:18:07.031Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.78276166666667
+      lng: -122.3973466666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Billboard for Framer featuring the text 'Enterprise needs. Startup speeds.' with a visual of a hand interacting with digital elements, set against an urban backdrop with street signs.
+    description: ""
+    tags: []
+  - id: 34
+    filename: 00034.jpg
+    thumbnail_filename: 00034_thumb.jpg
+    original_path: IMG_8769.HEIC
+    original_hash: sha256:0cee06d041418f08477a633c299417c7e00897a97733953a65f3bca910d240c7
+    taken_at: 2026-01-26T22:18:43.000Z
+    imported_at: 2026-02-09T04:18:03.734Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80667166666667
+      lng: -122.412195
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The side of a San Francisco bus features an advertisement with text 'The fraudsters are coming! Plaid stops them in their tracks.' alongside an image of a historical figure on horseback. The brand name 'Plaid' is visible with its logo.
+    description: ""
+    tags: []
+  - id: 33
+    filename: 00033.jpg
+    thumbnail_filename: 00033_thumb.jpg
+    original_path: IMG_8756.HEIC
+    original_hash: sha256:ae0f870d99d01ac66e88234aeab607cbb43122043e00a167302f020cadca5228
+    taken_at: 2026-01-20T00:51:23.000Z
+    imported_at: 2026-02-09T04:17:59.378Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80511333333333
+      lng: -122.4119116666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A billboard advertisement for Akamai Cloud in San Francisco states, 'AI agents shouldn't commute. Bring GPUs closer to users,' with the URL akamai.com/GPU. The design features a white background with orange and blue accents along with the Akamai logo.
+    description: ""
+    tags: []
+  - id: 32
+    filename: 00032.jpg
+    thumbnail_filename: 00032_thumb.jpg
+    original_path: IMG_8755.HEIC
+    original_hash: sha256:fcf54b0dde170f05af70dde68e1b4c0cf31ee19ba507ead546f3932a0e160162
+    taken_at: 2026-01-20T00:50:44.000Z
+    imported_at: 2026-02-09T04:17:53.854Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80511166666667
+      lng: -122.41195
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement showcases a message that reads 'Cursor pushes the frontier of coding with Stripe,' with the Stripe logo visible. It features a prominent image of a keyboard key with an arrow symbol, highlighted by orange lighting.
+    description: ""
+    tags: []
+  - id: 31
+    filename: 00031.jpg
+    thumbnail_filename: 00031_thumb.jpg
+    original_path: IMG_8754.HEIC
+    original_hash: sha256:4a3d54b167d93e9f71a98b935cc3f600f314166644a0a3d5d7dba6b34245aa6c
+    taken_at: 2026-01-20T00:47:35.000Z
+    imported_at: 2026-02-09T04:17:48.385Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80648
+      lng: -122.4122866666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for the Exploratorium in San Francisco promotes an event called 'Glow,' featuring the silhouette of an adult and child against a colorful background. The text encourages sharing the light and provides event dates from November 20 to January 25, with details to buy tickets at the Exploratorium's website.
+    description: ""
+    tags: []
+  - id: 30
+    filename: 00030.jpg
+    thumbnail_filename: 00030_thumb.jpg
+    original_path: IMG_8753.HEIC
+    original_hash: sha256:f086a73ac06dc43931eb5345784211cec899a19d034c03efb104f48b8921c8a5
+    taken_at: 2026-01-20T00:47:25.000Z
+    imported_at: 2026-02-09T04:17:41.686Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80636666666667
+      lng: -122.4122
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "The advertisement features 'Rave Into the Future' with the Asian Art Museum promoting 'Art in Motion: A Multimedia Tribute to the Dance Floor.' It shows dancers in colorful motion, highlighting a dynamic and vibrant theme."
+    description: ""
+    tags: []
+  - id: 29
+    filename: 00029.jpg
+    thumbnail_filename: 00029_thumb.jpg
+    original_path: IMG_8742.HEIC
+    original_hash: sha256:c58ca128ccc0dd8b74598d2cd2aded323b4ed281590d9540b896e2cba44eb7c7
+    taken_at: 2026-01-15T23:19:39.000Z
+    imported_at: 2026-02-09T04:17:37.611Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80498833333333
+      lng: -122.4119033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the brand 'CURSOR' with its logo, displayed at a bus stop in San Francisco. The setup includes a minimalistic design with a red canopy overhead and streetscape in the background.
+    description: ""
+    tags: []
   - id: 24
     filename: 00024.jpg
     thumbnail_filename: 00024_thumb.jpg
