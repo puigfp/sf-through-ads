@@ -1,18 +1,178 @@
 images:
-  - id: 39
-    filename: 00039.jpg
-    thumbnail_filename: 00039_thumb.jpg
-    original_path: IMG_8837.HEIC
-    original_hash: sha256:cec1004441b895aee2211cad4b3072fe62ae7a603e971a967d89924804709dff
-    taken_at: 2026-02-08T23:09:19.000Z
-    imported_at: 2026-02-09T04:18:31.822Z
+  - id: 49
+    filename: 00049.jpg
+    thumbnail_filename: 00049_thumb.jpg
+    original_path: IMG_8876.HEIC
+    original_hash: sha256:a05256ce9dc9cba257b7ab28d0c8b7fa150e580a3109b624d430615d29d7eed9
+    taken_at: 2026-02-14T23:00:06.000Z
+    imported_at: 2026-02-15T18:07:58.836Z
     width: 5712
     height: 4284
     location:
-      lat: 37.79031166666667
-      lng: -122.43068
+      lat: 37.82251333333333
+      lng: -122.31968
     timezone: America/Los_Angeles
-    ai_generated_alt_text: Bus advertisement in San Francisco promoting Modal with the slogan 'AI infra that developers love.' The design features digital circuit patterns, highlighting the tech theme, and includes a green and black color scheme.
+    ai_generated_alt_text: A large billboard in San Francisco displays an advertisement for Crescendo.ai with the text 'CX Outcomes Simplified (yeah, really!)' on a colorful background, set against a cloudy sky with the city skyline in the distance.
+    description: ""
+    tags: []
+  - id: 48
+    filename: 00048.jpg
+    thumbnail_filename: 00048_thumb.jpg
+    original_path: IMG_8875.HEIC
+    original_hash: sha256:e63d20b74445b2c1746c1abef714279927c22d50c8147ee6f43c42f2544cbd5e
+    taken_at: 2026-02-14T23:00:05.000Z
+    imported_at: 2026-02-15T18:07:52.722Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.82251333333333
+      lng: -122.31968
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "An advertisement for NeuBird AI features a puffin illustration and reads 'The #1 AI SRE Agent' against a bright orange background. The NeuBird AI logo is prominently displayed."
+    description: ""
+    tags: []
+  - id: 47
+    filename: 00047.jpg
+    thumbnail_filename: 00047_thumb.jpg
+    original_path: IMG_8872.HEIC
+    original_hash: sha256:eb85382fff84784f7e613c5ea4144f8cef81d5ac513e7cd29124974d4eb858ef
+    taken_at: 2026-02-14T22:59:12.000Z
+    imported_at: 2026-02-15T18:07:48.260Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.82252166666667
+      lng: -122.31968
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A billboard advertisement for the Contra Costa County Office of the Sheriff displays the message 'Start Your Career Today!' along with an image of a helicopter and the website JoinCocoSheriff.org, set against a colorful background.
+    description: ""
+    tags: []
+  - id: 46
+    filename: 00046.jpg
+    thumbnail_filename: 00046_thumb.jpg
+    original_path: IMG_8862.HEIC
+    original_hash: sha256:b569077361069bfd08672937de815d386b7eec642bff616bf6c6a20c43a0e51a
+    taken_at: 2026-02-13T22:00:25.000Z
+    imported_at: 2026-02-15T18:07:44.301Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80686666666666
+      lng: -122.4122916666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the back of a bus in San Francisco promotes an 'AI App Builder' with '30 million users' from BLACKBOX.AI, offering $10,000 of free credits. The design features bold white text against a black background.
+    description: ""
+    tags: []
+  - id: 45
+    filename: 00045.jpg
+    thumbnail_filename: 00045_thumb.jpg
+    original_path: IMG_8857.HEIC
+    original_hash: sha256:ab2867a747bb21190f87f45bd2ee3ef6bc4f98aafc93d423e4e26750f578fb3a
+    taken_at: 2026-02-12T03:34:52.000Z
+    imported_at: 2026-02-15T18:07:38.500Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.804805
+      lng: -122.4121033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the side of a San Francisco bus promotes Revelo, stating 'Expert human data to improve AI code-gen,' with the tagline 'Trusted by leading AI labs' above. The ad features a sleek and modern design with a dark blue background and bold white text.
+    description: ""
+    tags: []
+  - id: 44
+    filename: 00044.jpg
+    thumbnail_filename: 00044_thumb.jpg
+    original_path: IMG_8852.HEIC
+    original_hash: sha256:453cb5d6a3df2e075282a9986e505fccfb07c6de8b23cda5f7e883e0de297913
+    taken_at: 2026-02-11T17:07:18.000Z
+    imported_at: 2026-02-15T18:07:38.078Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80550333333333
+      lng: -122.4176116666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A bus advertisement in San Francisco for 'motion' company, displaying the message 'Humans and AI Work Together' and 'DON'T STOP HIRING HUMANS' alongside a cartoon face with yellow hair, set on a red and green background.
+    description: ""
+    tags: []
+  - id: 43
+    filename: 00043.jpg
+    thumbnail_filename: 00043_thumb.jpg
+    original_path: IMG_8847.HEIC
+    original_hash: sha256:9a92c362884e1235295b480abb5ec945454308efb11b5255adf4028c54ff5238
+    taken_at: 2026-02-11T04:25:09.000Z
+    imported_at: 2026-02-15T18:07:37.628Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80440833333333
+      lng: -122.415205
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the side of a San Francisco bus features 'Firecrawl' promoting 'The Web Data API' with a distinctive flame logo, set against a dark evening street scene.
+    description: ""
+    tags: []
+  - id: 42
+    filename: 00042.jpg
+    thumbnail_filename: 00042_thumb.jpg
+    original_path: IMG_8845.HEIC
+    original_hash: sha256:553680afe9a10d184cf0e9f88db01f593ffc7cfee0a00aa3830c411dd9b5b22b
+    taken_at: 2026-02-10T01:28:04.000Z
+    imported_at: 2026-02-15T18:07:37.185Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80879166666666
+      lng: -122.4125366666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the text 'The Bay Deserves Pepsi' with a cold can of Pepsi against the backdrop of the Golden Gate Bridge. It highlights Pepsi as the 'Official Soft Drink of Super Bowl LX' with a football graphic and logos.
+    description: ""
+    tags: []
+  - id: 41
+    filename: 00041.jpg
+    thumbnail_filename: 00041_thumb.jpg
+    original_path: IMG_8844.HEIC
+    original_hash: sha256:d7315d4aab2f6cf1687255fdf811e82725d57ccbaeb71ddd27d7149f2793a61c
+    taken_at: 2026-02-10T01:24:17.000Z
+    imported_at: 2026-02-15T18:07:36.721Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80734666666667
+      lng: -122.4123783333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus features the phrase 'AI infra that developers love.' with the brand name 'Modal' visible. The design includes futuristic green and black digital patterns.
+    description: ""
+    tags: []
+  - id: 40
+    filename: 00040.jpg
+    thumbnail_filename: 00040_thumb.jpg
+    original_path: IMG_8843.HEIC
+    original_hash: sha256:6a686c09b34fbf7e951ea3a1cf285a4509544a0b251b79a98274aafbf611c170
+    taken_at: 2026-02-10T01:23:57.000Z
+    imported_at: 2026-02-15T18:07:36.276Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80719666666667
+      lng: -122.4123216666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the back of a San Francisco bus promotes 'The Law Brothers' with a question 'Injured?' followed by the phone number 800-222-2222. It features a photo of two men in suits on a bright yellow background.
+    description: ""
+    tags: []
+  - id: 39
+    filename: 00039.jpg
+    thumbnail_filename: 00039_thumb.jpg
+    original_path: IMG_8841.HEIC
+    original_hash: sha256:d0cd84f9c7b48429b6d67d02bbe65d963debd8026ea13c40f475bb7db01528dd
+    taken_at: 2026-02-10T01:23:35.000Z
+    imported_at: 2026-02-15T18:07:35.393Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80702166666666
+      lng: -122.4122866666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the side of a bus shows a poker table scene with players holding cards, accompanied by the text 'Un-level the playing field,' with 'Amplitude' as the brand name visible at the bottom. The distinctive visual element includes multiple hands holding poker cards with chips on the table.
     description: ""
     tags: []
   - id: 38
