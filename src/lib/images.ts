@@ -48,7 +48,7 @@ export function getImageById(id: number): ImageEntry | null {
  */
 export function getAdjacentImages(
   id: number,
-  depth: number = 2
+  depth: number = 5
 ): { prev: ImageEntry[]; next: ImageEntry[] } {
   const images = getAllImages();
   const index = images.findIndex((img) => img.id === id);
