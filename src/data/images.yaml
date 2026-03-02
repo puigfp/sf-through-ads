@@ -1,4 +1,212 @@
 images:
+  - id: 62
+    filename: 00062.jpg
+    thumbnail_filename: 00062_thumb.jpg
+    original_path: IMG_8990.HEIC
+    original_hash: sha256:211085a5e8cd2ec96b6e673e7df4cba96a20192b22f3451a4ae1e0609c9f81c1
+    taken_at: 2026-03-01T22:27:22.000Z
+    imported_at: 2026-03-02T03:02:32.433Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80230833333334
+      lng: -122.4365383333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a purple San Francisco Muni bus reads 'Networking that's built, not bought' with the brand name 'meter.com' prominently displayed. The backdrop features a large white building with classical architectural elements.
+    description: ""
+    tags: []
+  - id: 61
+    filename: 00061.jpg
+    thumbnail_filename: 00061_thumb.jpg
+    original_path: IMG_8955.HEIC
+    original_hash: sha256:ab6f4125bd4ddae8538618f37c96cc47e01b6e74bdc880992cf0ed28b8fe3eb0
+    taken_at: 2026-02-25T21:11:22.000Z
+    imported_at: 2026-03-02T03:02:21.728Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80504666666667
+      lng: -122.41195
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement shows an ID badge with a photo of Tara Simms, Head of Revenue Operations, against a denim background. It reads, 'Tara from Sales transformed her company with AI orchestration,' with the brand name Zapier at the bottom.
+    description: ""
+    tags: []
+  - id: 60
+    filename: 00060.jpg
+    thumbnail_filename: 00060_thumb.jpg
+    original_path: IMG_8954.HEIC
+    original_hash: sha256:2398d7b91bd45b5cb29b0f39c8e8921a6ff16c03e2f31ebcb7ea133dee21b456
+    taken_at: 2026-02-25T21:11:07.000Z
+    imported_at: 2026-03-02T03:02:07.921Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80500833333333
+      lng: -122.4118883333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a man holding a phone displaying the PrizePicks app, with text saying 'Bay Areaaa, It Pays To Know Ball.' The background is purple, and the man is sitting with a basketball, showcasing the slogan 'It's Good To Be Right' along with logos for the App Store and Google Play.
+    description: ""
+    tags: []
+  - id: 59
+    filename: 00059.jpg
+    thumbnail_filename: 00059_thumb.jpg
+    original_path: IMG_8952.HEIC
+    original_hash: sha256:67c8d5654070d743eebb32760a746f9e308a4f569433a017f7e25e43b0707c6c
+    taken_at: 2026-02-25T02:14:33.000Z
+    imported_at: 2026-03-02T03:01:56.448Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80564166666667
+      lng: -122.4120033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "A bus advertisement in San Francisco displays the message 'Hate reviewing AI code?' with an image of a shocked face, promoting CodeRabbit as the #1 AI app on GitHub & GitLab for AI code reviews."
+    description: ""
+    tags: []
+  - id: 58
+    filename: 00058.jpg
+    thumbnail_filename: 00058_thumb.jpg
+    original_path: IMG_8948.HEIC
+    original_hash: sha256:b6b5ec5a5b543524281ec96609f234b5d92fa785dbfd68781832eda25bb44b3e
+    taken_at: 2026-02-22T21:08:45.000Z
+    imported_at: 2026-03-02T03:01:48.178Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.773955
+      lng: -122.437425
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for Juicebox.ai displays the text 'Hire the best' with a search bar below stating 'Product Managers in San Francisco, CA.' The background features a purple gradient and digital dot pattern.
+    description: ""
+    tags: []
+  - id: 57
+    filename: 00057.jpg
+    thumbnail_filename: 00057_thumb.jpg
+    original_path: IMG_8937.HEIC
+    original_hash: sha256:9de0493dbd6d6d11200d8343c504873550324c54761bada2db4c5fe2f8c6f3eb
+    taken_at: 2026-02-22T18:58:19.000Z
+    imported_at: 2026-03-02T03:01:40.441Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.760525
+      lng: -122.4661416666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features bold text emphasizing cutting through data barriers with the phrase 'CUT THROUGH THE AI NOISE,' and includes the Workato logo at the bottom. The ad has a minimalist design on a transparent surface at a San Francisco bus stop.
+    description: ""
+    tags: []
+  - id: 56
+    filename: 00056.jpg
+    thumbnail_filename: 00056_thumb.jpg
+    original_path: IMG_8935.HEIC
+    original_hash: sha256:4e605c2f68c9ccb32f3a24218c214ffc8dda4108cce96f36f3e952a0f3dffe0a
+    taken_at: 2026-02-21T22:42:46.000Z
+    imported_at: 2026-03-02T03:01:34.627Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.79919666666667
+      lng: -122.4429333333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A billboard in San Francisco displaying the logos of Nextdoor and CodeSignal, with the slogan 'Connected neighborhoods. Confident hiring.' against a blue background with subtle abstract graphics.
+    description: ""
+    tags: []
+  - id: 55
+    filename: 00055.jpg
+    thumbnail_filename: 00055_thumb.jpg
+    original_path: IMG_8933.HEIC
+    original_hash: sha256:645264d77281d2a7a845c91db555aa7d46556cb157b82e38c6c28bb70a39b25d
+    taken_at: 2026-02-21T22:21:30.000Z
+    imported_at: 2026-03-02T03:01:29.180Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80068333333333
+      lng: -122.4377666666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The billboard advertises fal, stating 'The next generation of creativity runs on fal' and 'E-commerce teams scale product visual creation on fal' with distinctive bold text and icons representing images and audio.
+    description: ""
+    tags: []
+  - id: 54
+    filename: 00054.jpg
+    thumbnail_filename: 00054_thumb.jpg
+    original_path: IMG_8928.HEIC
+    original_hash: sha256:669c1fb5161c5502deab7d8dd55f7921f44d3907e483b35bc1ff4d044b881420
+    taken_at: 2026-02-21T21:24:22.000Z
+    imported_at: 2026-03-02T03:01:23.018Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79055
+      lng: -122.42913
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement from Baseten reads 'OWN YOUR SLAs' in bold letters, set against a background with repetitive text. It is displayed at a bus stop with a distinctive red awning in an urban setting.
+    description: ""
+    tags: []
+  - id: 53
+    filename: 00053.jpg
+    thumbnail_filename: 00053_thumb.jpg
+    original_path: IMG_8909.HEIC
+    original_hash: sha256:0aaf11e671d3ef270eb8f0af5852413d0f52250fa2aa4fe097cdb7c8d522d653
+    taken_at: 2026-02-20T03:03:54.000Z
+    imported_at: 2026-03-02T03:01:09.059Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80747
+      lng: -122.412255
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the brand NurtureOS with the headline 'You're a Bad Parent. Let's Fix That.' promoting AI-powered smart parenting. It shows a man looking at his phone, with a baby crib in the background, and includes a QR code in the top right corner.
+    description: ""
+    tags: []
+  - id: 52
+    filename: 00052.jpg
+    thumbnail_filename: 00052_thumb.jpg
+    original_path: IMG_8907.HEIC
+    original_hash: sha256:f6a7686faccb5e3dc0705ee2075a65cab6324a62e633c50186caae0f895d3621
+    taken_at: 2026-02-18T21:22:22.000Z
+    imported_at: 2026-03-02T03:01:03.707Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.801155
+      lng: -122.3993383333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for 'airops' displays the message 'The best marketing teams are WINNING AI SEARCH, are you?' alongside logos from various companies like LegalZoom and Webflow. The design features a dark background with green and white text and logos.
+    description: ""
+    tags: []
+  - id: 51
+    filename: 00051.jpg
+    thumbnail_filename: 00051_thumb.jpg
+    original_path: IMG_8904.HEIC
+    original_hash: sha256:ca362a06496090fede4b4993bc864d50d9ca3c5a62a2a93bfb54ba9d76ad9079
+    taken_at: 2026-02-18T18:02:58.000Z
+    imported_at: 2026-03-02T03:00:56.501Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80626666666667
+      lng: -122.4232166666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A bus advertisement in San Francisco displaying an ad for the Sleeper app, featuring the text 'Passive Income Bro, I Need MASSIVE Income' along with images of sports gear and coins. The ad includes app store logos, highlighting its download availability.
+    description: ""
+    tags: []
+  - id: 50
+    filename: 00050.jpg
+    thumbnail_filename: 00050_thumb.jpg
+    original_path: IMG_8897.HEIC
+    original_hash: sha256:f2fe4e7cb5d6765f174956cd2773b135dfec7290565502b3089a40f62015b995
+    taken_at: 2026-02-15T23:09:20.000Z
+    imported_at: 2026-03-02T03:00:40.876Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.792255
+      lng: -122.4345633333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a green and blue San Francisco bus promotes 'instant global money movement using stablecoins' by Bridge, a Stripe company. The ad features a dotted pattern design near the vehicle's rear.
+    description: ""
+    tags: []
   - id: 49
     filename: 00049.jpg
     thumbnail_filename: 00049_thumb.jpg
