@@ -1,4 +1,292 @@
 images:
+  - id: 80
+    filename: 00080.jpg
+    thumbnail_filename: 00080_thumb.jpg
+    original_path: IMG_9057.HEIC
+    original_hash: sha256:ac0b0e592015289d5a6ced87bdd404ed1d0343df4a3ba742d20e4f11d01272c5
+    taken_at: 2026-03-09T01:17:47.000Z
+    imported_at: 2026-03-09T02:18:46.540Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80229166666667
+      lng: -122.4366083333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A purple bus displaying an advertisement with the message 'Close your books by the next stop.' It features the brand name 'Rillet' with the tagline 'The AI native ERP.' The bus is parked in front of a large building.
+    description: ""
+    tags: []
+  - id: 79
+    filename: 00079.jpg
+    thumbnail_filename: 00079_thumb.jpg
+    original_path: IMG_9047.HEIC
+    original_hash: sha256:80cc7780f1e8f666a1bb3469f18f7d2154932888ccbda6b0692f629fb2718fbf
+    taken_at: 2026-03-08T03:54:26.000Z
+    imported_at: 2026-03-09T02:18:40.834Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.799725
+      lng: -122.4361583333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement shows a man sitting on a stool with the text 'Kareem Building Clay' and a logo resembling a swirl, set against a green-tinted background. It appears to be for the brand New Tradition.
+    description: ""
+    tags: []
+  - id: 78
+    filename: 00078.jpg
+    thumbnail_filename: 00078_thumb.jpg
+    original_path: IMG_9046.HEIC
+    original_hash: sha256:e13b2636664c957ad27725e823d254de93c9ae1b58682565e7e18c7ba9e09bed
+    taken_at: 2026-03-08T02:01:02.000Z
+    imported_at: 2026-03-09T02:18:36.485Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80483666666667
+      lng: -122.4254133333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for PostHog features a cartoon wizard at a desk with a laptop, accompanied by the quote 'The PostHog AI Wizard feels unreal. I literally did nothing and it just works.' The ad has a distinct blue background and includes the PostHog logo at the top.
+    description: ""
+    tags: []
+  - id: 77
+    filename: 00077.jpg
+    thumbnail_filename: 00077_thumb.jpg
+    original_path: IMG_9045.HEIC
+    original_hash: sha256:e0b7ce8c1a8325563ff5eaee7e3f72b6218e2e7d1ef28551f0bb97ea14c866f7
+    taken_at: 2026-03-08T01:41:55.000Z
+    imported_at: 2026-03-09T02:18:30.180Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79098833333333
+      lng: -122.401475
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the brand name 'Arcee' with the tagline 'AMERICAN. OPEN SOURCE. AI.' displayed on a teal background. The website 'arcee.ai' is also visible, giving the ad a modern, tech-focused appeal.
+    description: ""
+    tags: []
+  - id: 76
+    filename: 00076.jpg
+    thumbnail_filename: 00076_thumb.jpg
+    original_path: IMG_9044.HEIC
+    original_hash: sha256:f54582ad5a5d95279e5eba69b72d2b3b85679e324a6da5d1b060241593d7a826
+    taken_at: 2026-03-08T01:38:37.000Z
+    imported_at: 2026-03-09T02:18:24.404Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79297
+      lng: -122.3969883333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement shows a list of enterprise-ready features like SSO and Audit Logs, with the tagline 'Your app, Enterprise Ready.' It is for the company WorkOS, displayed on a stylish San Francisco kiosk with the company's logo at the bottom.
+    description: ""
+    tags: []
+  - id: 75
+    filename: 00075.jpg
+    thumbnail_filename: 00075_thumb.jpg
+    original_path: IMG_9039.HEIC
+    original_hash: sha256:cd4fd18b3000c7df2b40107359d2daae8749ba1a31f7471898c7d718d21ba9e7
+    taken_at: 2026-03-08T01:33:54.000Z
+    imported_at: 2026-03-09T02:18:17.650Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.79252166666667
+      lng: -122.3976283333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement for 'qodo', featuring the phrase 'The AI Code Review Platform' with a grid background and showcases various features like 'Find Critical Issue' and 'Merge Quality Code'. The display includes a stylized character on the right, maintaining a tech-focused visual theme.
+    description: ""
+    tags: []
+  - id: 74
+    filename: 00074.jpg
+    thumbnail_filename: 00074_thumb.jpg
+    original_path: IMG_9036.HEIC
+    original_hash: sha256:49f4ce2adc817b7bbf2fb370e8ecfbd31e1df3a3d32479cebffa39554d605d6c
+    taken_at: 2026-03-08T01:33:11.000Z
+    imported_at: 2026-03-09T02:18:09.275Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.79264666666667
+      lng: -122.3974533333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement for the Daytona Compute Conference, scheduled for March 8-9, 2026, at Chase Center, featuring founders on stage and showcasing several tech company logos. The visual has a dark background with digital-themed graphics.
+    description: ""
+    tags: []
+  - id: 73
+    filename: 00073.jpg
+    thumbnail_filename: 00073_thumb.jpg
+    original_path: IMG_9016.HEIC
+    original_hash: sha256:2d8ae8875b22ca05df55c35853f841dc6649a18f016f0d9b42f2175cc00f262d
+    taken_at: 2026-03-07T17:22:38.000Z
+    imported_at: 2026-03-09T02:18:04.138Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.78948333333334
+      lng: -122.401375
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement in San Francisco featuring CodeRabbit, with two panels; one asks 'Letting your coding agent review itself?' on an orange background, the other states 'That's like calling it 'tested' because it didn't crash yet.' with 'Work smarter.' and the CodeRabbit logo.
+    description: ""
+    tags: []
+  - id: 72
+    filename: 00072.jpg
+    thumbnail_filename: 00072_thumb.jpg
+    original_path: IMG_9015.HEIC
+    original_hash: sha256:735c11fe4d445b4d4d6cb56c5c5589c65920b3959166af58dce3cc8c04c909c9
+    taken_at: 2026-03-07T17:11:49.000Z
+    imported_at: 2026-03-09T02:17:59.699Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.780155
+      lng: -122.41313
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "The advertisement features three panels with the repeated phrase 'DEVIN LOVES' followed by varying text: 'MERGE CONFLICTS,' 'WRITING DOCS,' and 'THE TASKS YOU DON'T,' all by Cognition, with a background of light geometric patterns."
+    description: ""
+    tags: []
+  - id: 71
+    filename: 00071.jpg
+    thumbnail_filename: 00071_thumb.jpg
+    original_path: IMG_9014.HEIC
+    original_hash: sha256:b147105edf088da4b9595da98220633d811b405815aef4d8afef54c74a8ee8a0
+    taken_at: 2026-03-07T17:11:44.000Z
+    imported_at: 2026-03-09T02:17:54.344Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.780155
+      lng: -122.41313
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A three-panel advertisement for Veeam displaying the text 'The Data & AI Trust Company' with a blue and green gradient background featuring geometric patterns.
+    description: ""
+    tags: []
+  - id: 70
+    filename: 00070.jpg
+    thumbnail_filename: 00070_thumb.jpg
+    original_path: IMG_9011.HEIC
+    original_hash: sha256:e20a88add44fd647d4ebed5c4ff85e9648d25986bb0859eee50e9da8494b0d45
+    taken_at: 2026-03-05T03:50:29.000Z
+    imported_at: 2026-03-09T02:17:49.083Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80504166666667
+      lng: -122.411895
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement displays the text 'No cold starts.' with the brand name 'blaxel' and the tagline 'The perpetual sandbox.' It features a dark background with white and orange text, and a distinctive abstract circular logo next to the brand name.
+    description: ""
+    tags: []
+  - id: 69
+    filename: 00069.jpg
+    thumbnail_filename: 00069_thumb.jpg
+    original_path: IMG_9009.HEIC
+    original_hash: sha256:37118a844c7fcdda94cd7cc21f764d51beada7a02993d8600742fc041889a2dd
+    taken_at: 2026-03-05T03:49:40.000Z
+    imported_at: 2026-03-09T02:17:41.981Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80506166666667
+      lng: -122.411895
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the Stripe logo with the text 'Instacart built an errand into an enterprise with Stripe', showing a photograph of a grocery basket containing tulips, a baguette, greens, and various groceries. It is illuminated at night, creating a vivid display on the street.
+    description: ""
+    tags: []
+  - id: 68
+    filename: 00068.jpg
+    thumbnail_filename: 00068_thumb.jpg
+    original_path: IMG_9008.HEIC
+    original_hash: sha256:455571806b6b7ae0342c4d3ff1f75a855ec2c5e1797059c57d3220103ca62b74
+    taken_at: 2026-03-05T03:49:28.000Z
+    imported_at: 2026-03-09T02:17:35.339Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.805275
+      lng: -122.411955
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement displays the 'Microsoft Build' event, scheduled for June 2-3, 2026 in San Francisco, aimed at developers. It features the Microsoft logo and a colorful pixelated design with a QR code.
+    description: ""
+    tags: []
+  - id: 67
+    filename: 00067.jpg
+    thumbnail_filename: 00067_thumb.jpg
+    original_path: IMG_9002.HEIC
+    original_hash: sha256:f5a8cf6c8e1d02a399b9093fd1ff70bc1a8856cdd12ec87cb8117aa1ded4eee5
+    taken_at: 2026-03-03T17:08:36.000Z
+    imported_at: 2026-03-09T02:17:29.613Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.805195
+      lng: -122.411775
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: This advertisement on a red bus in San Francisco features the text 'Who's Your Dadd AI?!' with a cartoon character illustration. The brand name 'PostHog' is visible, and the design includes vibrant and playful artwork.
+    description: ""
+    tags: []
+  - id: 66
+    filename: 00066.jpg
+    thumbnail_filename: 00066_thumb.jpg
+    original_path: IMG_8998.HEIC
+    original_hash: sha256:272cfca45c533c50577e0c84163699883d4dc903d3e7f9b8031e4f36ac4982e9
+    taken_at: 2026-03-03T00:19:21.000Z
+    imported_at: 2026-03-09T02:17:23.961Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80543833333333
+      lng: -122.411995
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the side of a bus promotes Hex, encouraging viewers to 'Get started at hex.ai,' with the message 'There's more to life than dashboards. Magical data tools for modern teams.' It features a pixelated hand graphic reaching towards the text.
+    description: ""
+    tags: []
+  - id: 65
+    filename: 00065.jpg
+    thumbnail_filename: 00065_thumb.jpg
+    original_path: IMG_8997.HEIC
+    original_hash: sha256:a6cb4092229101a08e68aa1639b594b943ff41828c94fcb0f19593936a781fd8
+    taken_at: 2026-03-01T23:58:48.000Z
+    imported_at: 2026-03-09T02:17:18.441Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.79117166666666
+      lng: -122.427795
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "The advertisement on a San Francisco Muni bus features the slogan 'Procurement moves faster with Zip,' promoting Zip as the #1 agentic procurement orchestration platform, with a blue design and the website ziphq.com visible."
+    description: ""
+    tags: []
+  - id: 64
+    filename: 00064.jpg
+    thumbnail_filename: 00064_thumb.jpg
+    original_path: IMG_8996.HEIC
+    original_hash: sha256:03d15c985879dfd2dede6abc900f6fc7178e528efd446bdbf1b4ac8d185ed296
+    taken_at: 2026-03-01T22:57:34.000Z
+    imported_at: 2026-03-09T02:17:11.747Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79063333333333
+      lng: -122.4288783333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "The advertisement on the bus stop in San Francisco reads 'Read the room.' with 'granola the notes.' The design features a light green background with a digital note interface showing a 'Board review: Q2 Budget' with icons for enhanced notes and sharing."
+    description: ""
+    tags: []
+  - id: 63
+    filename: 00063.jpg
+    thumbnail_filename: 00063_thumb.jpg
+    original_path: IMG_8991.HEIC
+    original_hash: sha256:5d4625ee0a7d4bf6b8636576b4b53a1db2cd8550fff4e392fb187da16f2ae4ff
+    taken_at: 2026-03-01T22:27:32.000Z
+    imported_at: 2026-03-09T02:17:07.108Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80222
+      lng: -122.4366616666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the side of a bus in San Francisco features the text 'What else could be driving advanced prostate cancer?' alongside the Pfizer Oncology logo, a QR code, and the URL EZH2andCancer.com. The bus is painted in blue and red with the words 'Clean Air' visible.
+    description: ""
+    tags: []
   - id: 62
     filename: 00062.jpg
     thumbnail_filename: 00062_thumb.jpg
