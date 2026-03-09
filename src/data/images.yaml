@@ -159,6 +159,22 @@ images:
     ai_generated_alt_text: A three-panel advertisement for Veeam displaying the text 'The Data & AI Trust Company' with a blue and green gradient background featuring geometric patterns.
     description: ""
     tags: []
+  - id: 82
+    filename: 00082.jpg
+    thumbnail_filename: 00082_thumb.jpg
+    original_path: IMG_9012.HEIC
+    original_hash: sha256:bfdf1b1d70b9287f4c639ed3dc6ea7f02b0b56fb73d642b388b85e02014375f8
+    taken_at: 2026-03-05T19:38:31.000Z
+    imported_at: 2026-03-09T02:28:46.450Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80722833333333
+      lng: -122.4122916666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the side of a bus in San Francisco reads, 'FORCED TO 'BOOK A CALL' TO SEE SaaS PRICING? YOU MAY BE ENTITLED TO PostHog' with the PostHog logo and contact information. The design features bold text on a yellow and black background, and an image of a person giving a thumbs-up.
+    description: ""
+    tags: []
   - id: 70
     filename: 00070.jpg
     thumbnail_filename: 00070_thumb.jpg
@@ -221,6 +237,22 @@ images:
       lng: -122.411775
     timezone: America/Los_Angeles
     ai_generated_alt_text: This advertisement on a red bus in San Francisco features the text 'Who's Your Dadd AI?!' with a cartoon character illustration. The brand name 'PostHog' is visible, and the design includes vibrant and playful artwork.
+    description: ""
+    tags: []
+  - id: 83
+    filename: 00083.jpg
+    thumbnail_filename: 00083_thumb.jpg
+    original_path: IMG_8999.HEIC
+    original_hash: sha256:19db4731dac65a4f9f20d171cd5e4b2e19690499207a9552fdcbe65ed9c6e897
+    taken_at: 2026-03-03T00:31:46.000Z
+    imported_at: 2026-03-09T02:29:22.722Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80854166666667
+      lng: -122.4126583333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the parking structure features the ChatGPT logo and shows two people engaging in conversation through a window adorned with flower boxes. The sign for 'Pier 39 Public Parking' is also visible on the building's facade.
     description: ""
     tags: []
   - id: 66
@@ -301,6 +333,22 @@ images:
       lng: -122.4365383333333
     timezone: America/Los_Angeles
     ai_generated_alt_text: The advertisement on a purple San Francisco Muni bus reads 'Networking that's built, not bought' with the brand name 'meter.com' prominently displayed. The backdrop features a large white building with classical architectural elements.
+    description: ""
+    tags: []
+  - id: 81
+    filename: 00081.jpg
+    thumbnail_filename: 00081_thumb.jpg
+    original_path: IMG_8956.HEIC
+    original_hash: sha256:72c122bc4210cd65cf13fef79fae553aaee5218c96ea4b6aef8dd56738ee41dd
+    taken_at: 2026-02-25T22:35:29.000Z
+    imported_at: 2026-03-09T02:28:41.197Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80570333333333
+      lng: -122.4120116666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A city bus advertisement for Rippling displays the message 'HR, IT, and Finance going precisely to plan,' featuring a close-up image of a person whispering. The Rippling logo is visible with the tagline 'Global HR & Payroll. IT. Finance.'
     description: ""
     tags: []
   - id: 61
