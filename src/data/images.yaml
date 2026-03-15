@@ -1,4 +1,100 @@
 images:
+  - id: 89
+    filename: 00089.jpg
+    thumbnail_filename: 00089_thumb.jpg
+    original_path: IMG_9071.HEIC
+    original_hash: sha256:e76f225d83ef98da96f1c69e199c37331d26f7cec10cf37e96a00f6f8d7cee2a
+    taken_at: 2026-03-14T23:32:39.000Z
+    imported_at: 2026-03-15T03:16:28.229Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78741166666666
+      lng: -122.4036033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: An advertisement for ChatGPT on a digital billboard in San Francisco, featuring a cityscape and a person smiling. The ad is displayed on a JCDecaux structure with the logo visible at the top.
+    description: ""
+    tags: []
+  - id: 88
+    filename: 00088.jpg
+    thumbnail_filename: 00088_thumb.jpg
+    original_path: IMG_9070.HEIC
+    original_hash: sha256:5b89d24e4f02f2d83a304132498c25ec11f0325b8a89864a2cbc828cb16b2e7e
+    taken_at: 2026-03-14T23:32:15.000Z
+    imported_at: 2026-03-15T03:16:19.148Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.78762
+      lng: -122.4035866666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for Air France displays a person in white attire sitting comfortably on a red-and-black chair, highlighting 'Free High-Speed WiFi' provided by Starlink. It features the slogan 'Elegance is a Journey' and incorporates a modern, sleek design.
+    description: ""
+    tags: []
+  - id: 87
+    filename: 00087.jpg
+    thumbnail_filename: 00087_thumb.jpg
+    original_path: IMG_9067.HEIC
+    original_hash: sha256:3dd901144457dbdcdf9faf2cf189445016aaed0c2f051db84ad813ab9f39c7bf
+    taken_at: 2026-03-14T19:11:24.000Z
+    imported_at: 2026-03-15T03:16:13.593Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.77677166666667
+      lng: -122.4171216666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the text 'Recovery Starts Here' with an image of a smiling individual named Ghana, described as The Way Out Graduate. It promotes 'The Way Out' as a proven path from the streets to stability, associated with The Salvation Army, and displays thewayoutsf.org.
+    description: ""
+    tags: []
+  - id: 86
+    filename: 00086.jpg
+    thumbnail_filename: 00086_thumb.jpg
+    original_path: IMG_9066.HEIC
+    original_hash: sha256:6626d1f43ee41f462be2c58df20398a92ac262bbc20059bf69f9bc38dccb5435
+    taken_at: 2026-03-14T19:11:09.000Z
+    imported_at: 2026-03-15T03:16:08.396Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.77610833333333
+      lng: -122.4179383333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement reads 'AI gave 30 billion answers last week. Is your brand the answer?' with the logo of Profound at the bottom. The billboard features a sleek design against a city backdrop with a modern structure.
+    description: ""
+    tags: []
+  - id: 85
+    filename: 00085.jpg
+    thumbnail_filename: 00085_thumb.jpg
+    original_path: IMG_9061.HEIC
+    original_hash: sha256:d065ae40b6d846e050fb5ebe187ff667cd5d201bf1e6dabb3f05196379e7b19a
+    taken_at: 2026-03-10T22:54:36.000Z
+    imported_at: 2026-03-15T03:16:04.272Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.807155
+      lng: -122.4123533333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus features the text 'Multiply what's possible' and displays multiple identical images of a man in a suit engaged in different activities, with the brand name 'Ramp' prominently displayed on a bright yellow background.
+    description: ""
+    tags: []
+  - id: 84
+    filename: 00084.jpg
+    thumbnail_filename: 00084_thumb.jpg
+    original_path: IMG_9060.HEIC
+    original_hash: sha256:e3d73c1e7d9e226c8e629ba4e3a41d8c4976e8ca0acab00b914b40c74d5c0986
+    taken_at: 2026-03-10T22:42:43.000Z
+    imported_at: 2026-03-15T03:15:59.636Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80532
+      lng: -122.411955
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A bus advertisement in San Francisco promoting 'Advertise on Streaming TV' with the brand name 'vibe.co' visible. The ad features a purple and black color scheme with bold white and yellow text.
+    description: ""
+    tags: []
   - id: 80
     filename: 00080.jpg
     thumbnail_filename: 00080_thumb.jpg
