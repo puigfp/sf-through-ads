@@ -1,4 +1,452 @@
 images:
+  - id: 118
+    filename: 00118.jpg
+    thumbnail_filename: 00118_thumb.jpg
+    original_path: IMG_9248.HEIC
+    original_hash: sha256:9bb693b04bc9940bb734d08b38f103920b7d23607ee9a4265e96eff2fe91edb6
+    taken_at: 2026-04-16T00:17:53.000Z
+    imported_at: 2026-04-16T02:36:23.635Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80742833333333
+      lng: -122.4122083333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the back of a bus features 'Ava 2.0 is the first self-serve AI BDR,' with a call to action 'Start free at artisan.co.' It includes an image of a woman's face, with a purple background and the company name Artisan visible.
+    description: ""
+    tags: []
+  - id: 117
+    filename: 00117.jpg
+    thumbnail_filename: 00117_thumb.jpg
+    original_path: IMG_9247.HEIC
+    original_hash: sha256:81092e4f993859ce457d0ff4b0c2e88c15bcb709ebd654194db33c4f616eb188
+    taken_at: 2026-04-15T16:05:12.000Z
+    imported_at: 2026-04-16T02:36:20.002Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80472166666667
+      lng: -122.4250633333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the back of a bus features the slogan 'Easy Peasy Data Squeezy' with the PostHog logo, set against a blue background with yellow accents, including a playful illustration of a squeezy lemon.
+    description: ""
+    tags: []
+  - id: 116
+    filename: 00116.jpg
+    thumbnail_filename: 00116_thumb.jpg
+    original_path: IMG_9246.HEIC
+    original_hash: sha256:dd9ac965b76c458d0a279549281c9b65d6d9cd38d5ce5c639dac6596b1efeb42
+    taken_at: 2026-04-15T01:21:13.000Z
+    imported_at: 2026-04-16T02:36:15.707Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80558
+      lng: -122.4119716666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a bus in San Francisco features the Heroku brand from Salesforce, with the slogan 'We speak your language.' The design includes a purple and white color scheme with Heroku's logo prominently displayed.
+    description: ""
+    tags: []
+  - id: 115
+    filename: 00115.jpg
+    thumbnail_filename: 00115_thumb.jpg
+    original_path: IMG_9240.HEIC
+    original_hash: sha256:29a2cd805476205f542c43d533b8d2a02f4d8460a8f4a8fd561cd2bee7885a15
+    taken_at: 2026-04-12T20:38:53.000Z
+    imported_at: 2026-04-16T02:36:11.263Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79960333333333
+      lng: -122.43612
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement is for OneTrust, promoting their 'AI-Ready Governance Platform' with the tagline 'Governance that helps you go.' It features a stylized illustration of traffic lights on a bright turquoise background.
+    description: ""
+    tags: []
+  - id: 114
+    filename: 00114.jpg
+    thumbnail_filename: 00114_thumb.jpg
+    original_path: IMG_9239.HEIC
+    original_hash: sha256:3a8cb6d44f9dd4556a5a5f84c7d4246195a096c81c7f71cf5d48dc9899e7a914
+    taken_at: 2026-04-12T20:38:42.000Z
+    imported_at: 2026-04-16T02:36:07.015Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79961166666666
+      lng: -122.4361283333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement warns about distracted driving, stating 'Distracted driving kills 9 people a day,' with a prominent number '9' in red. It features the Go Safe California logo at the bottom and has a black background with bold white and blue text.
+    description: ""
+    tags: []
+  - id: 113
+    filename: 00113.jpg
+    thumbnail_filename: 00113_thumb.jpg
+    original_path: IMG_9233.HEIC
+    original_hash: sha256:16115c27093421e5e1b6fc5765d2562fdfe7f32aa90f442f6c643300d4ac905f
+    taken_at: 2026-04-11T22:49:54.000Z
+    imported_at: 2026-04-16T02:36:02.362Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78097833333333
+      lng: -122.43547
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the quote 'Tenderloin is a gem.' attributed to someone visiting SF, alongside the brand name 'outset.ai'. It includes a QR code with the prompt 'What do you think of SF?' to view more quotes and share opinions.
+    description: ""
+    tags: []
+  - id: 112
+    filename: 00112.jpg
+    thumbnail_filename: 00112_thumb.jpg
+    original_path: IMG_9222.HEIC
+    original_hash: sha256:2f769ff72b6adadfc5174412f2ce647094597d3937e1ec2430d2cc957ff945bd
+    taken_at: 2026-04-11T18:12:43.000Z
+    imported_at: 2026-04-16T02:35:56.710Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.799605
+      lng: -122.4361283333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A billboard for OneTrust with the slogan 'Governance that helps you go. The AI-Ready Governance Platform' featuring a green abstract image resembling traffic lights.
+    description: ""
+    tags: []
+  - id: 111
+    filename: 00111.jpg
+    thumbnail_filename: 00111_thumb.jpg
+    original_path: IMG_9221.HEIC
+    original_hash: sha256:1542fae797c72366120828f293cc65fee72c1f21d18763d34ce7ea28a68d4bf0
+    taken_at: 2026-04-11T18:12:35.000Z
+    imported_at: 2026-04-16T02:35:51.602Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79960333333333
+      lng: -122.4361116666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a digital display showing an audio recording interface, promoting Uber's in-app audio recording feature for added peace of mind. The text is blue and white on a black background, with the Uber logo at the bottom.
+    description: ""
+    tags: []
+  - id: 110
+    filename: 00110.jpg
+    thumbnail_filename: 00110_thumb.jpg
+    original_path: IMG_9218.HEIC
+    original_hash: sha256:656c358791c72a7531de567423ffff9a30164f5a0802efcaabe898d3db99578d
+    taken_at: 2026-04-11T18:11:56.000Z
+    imported_at: 2026-04-16T02:35:47.066Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.799655
+      lng: -122.43608
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for SFMTA invites public feedback on Muni's 2026-2027 budget, listing Board of Directors meetings dates and displaying a city skyline illustration at the bottom.
+    description: ""
+    tags: []
+  - id: 109
+    filename: 00109.jpg
+    thumbnail_filename: 00109_thumb.jpg
+    original_path: IMG_9206.HEIC
+    original_hash: sha256:5eb8f76c7d45f453c502ff9f4d6c858be1334ffc86dbdb2754cb5d6db0f08f8f
+    taken_at: 2026-04-08T01:59:20.000Z
+    imported_at: 2026-04-16T02:35:42.445Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80709166666666
+      lng: -122.4122783333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: An advertisement on the back of a San Francisco bus features a golden retriever with the text 'Fast, safe, and well-trained. That's smart data sharing.' The ad is for Vendia, with additional text promoting secure and seamless connection.
+    description: ""
+    tags: []
+  - id: 108
+    filename: 00108.jpg
+    thumbnail_filename: 00108_thumb.jpg
+    original_path: IMG_9205.HEIC
+    original_hash: sha256:1c4421b6d1e57c86d2ccd173c5bc97144a1bd98941fa26db402f3553fe93cc3f
+    taken_at: 2026-04-08T01:58:13.000Z
+    imported_at: 2026-04-16T02:35:37.722Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.8063
+      lng: -122.4120716666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for Deel features the tagline 'Helping startups hire, pay, manage anyone, anywhere.' on a purple background. It includes the Deel logo and various icons representing business services.
+    description: ""
+    tags: []
+  - id: 107
+    filename: 00107.jpg
+    thumbnail_filename: 00107_thumb.jpg
+    original_path: IMG_9202.HEIC
+    original_hash: sha256:00b2ac89d9c342549812d7d78a328b0f996f4f0c4636fd634d8243415b5aee26
+    taken_at: 2026-04-05T04:05:37.000Z
+    imported_at: 2026-04-16T02:35:32.294Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.79980833333333
+      lng: -122.4361033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The billboard displays the text 'Built for the real world' against a blue background, with the brand name 'Doss' and website 'doss.com' visible. The design features a simple and modern aesthetic with bold fonts.
+    description: ""
+    tags: []
+  - id: 106
+    filename: 00106.jpg
+    thumbnail_filename: 00106_thumb.jpg
+    original_path: IMG_9201.HEIC
+    original_hash: sha256:1826f58d7026753e3a004a8ea15e909dfd2dcd5c6822cfe66239ac774a77583c
+    taken_at: 2026-04-05T00:11:55.000Z
+    imported_at: 2026-04-16T02:35:28.977Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80247166666667
+      lng: -122.4366533333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The bus advertisement displays the message 'Audits are inevitable. Suffering isn’t.' for Delve.co, with a teal and gray design backdrop.
+    description: ""
+    tags: []
+  - id: 105
+    filename: 00105.jpg
+    thumbnail_filename: 00105_thumb.jpg
+    original_path: IMG_9187.HEIC
+    original_hash: sha256:3988092b77d03b65d4fc468ebddd809ec3b15dd924d42c92891540d4648721e8
+    taken_at: 2026-03-31T15:47:30.000Z
+    imported_at: 2026-04-16T02:35:25.447Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.802445
+      lng: -122.4368283333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus features the text 'Injured by this DB query? You need a search engine.' with a SQL command above, promoting Typesense as 'Blazing Fast Site & App Search. No PhD Required.' The visual elements include a bright yellow background with red and black text.
+    description: ""
+    tags: []
+  - id: 104
+    filename: 00104.jpg
+    thumbnail_filename: 00104_thumb.jpg
+    original_path: IMG_9186.HEIC
+    original_hash: sha256:b8870e0cfa6dc1868b1782011f87c5d3ea9d5ef58af79b356c03a466931adb6f
+    taken_at: 2026-03-31T15:47:20.000Z
+    imported_at: 2026-04-16T02:35:21.654Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.802425
+      lng: -122.436675
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus reads 'Fix your agents' and features the company names LangChain and LangSmith, with a distinctive blue and black color scheme.
+    description: ""
+    tags: []
+  - id: 103
+    filename: 00103.jpg
+    thumbnail_filename: 00103_thumb.jpg
+    original_path: IMG_9182.HEIC
+    original_hash: sha256:716f0d8b9fe8df3dc37b24edb9096fae35f8ff1487e78b86b6bb01724bc1929c
+    taken_at: 2026-03-30T00:26:39.000Z
+    imported_at: 2026-04-16T02:35:17.837Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80030833333333
+      lng: -122.4395666666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a slogan 'Nicole's Marketing Team Wins AI Search' with a monochrome portrait of a woman, and mentions Nicole Baer, CMO of Carta. The brands 'airops' and 'carta' are highlighted, with a distinctive green color theme and a URL airops.com/win.
+    description: ""
+    tags: []
+  - id: 102
+    filename: 00102.jpg
+    thumbnail_filename: 00102_thumb.jpg
+    original_path: IMG_9176.HEIC
+    original_hash: sha256:38e7a81d13c735c1103250232c96a51978af43b6e1e5d36f687447d8477c4654
+    taken_at: 2026-03-29T22:19:58.000Z
+    imported_at: 2026-04-16T02:35:13.882Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.7897
+      lng: -122.4340883333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the bus showcases Semgrep with the slogan 'No More Noise,' featuring text like 'Code Security For Builders' and highlighting issues such as 'Friction,' 'Fatigue,' 'Footguns,' and 'False Positives.' The design includes bold text and purple graphic elements.
+    description: ""
+    tags: []
+  - id: 101
+    filename: 00101.jpg
+    thumbnail_filename: 00101_thumb.jpg
+    original_path: IMG_9175.HEIC
+    original_hash: sha256:7e9a35a9dabf67ae17f76469a81e3661d0417df727f437a238af0cf0bd47d075
+    taken_at: 2026-03-29T22:06:10.000Z
+    imported_at: 2026-04-16T02:35:10.724Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79223333333334
+      lng: -122.434595
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement promotes coding agents with the message 'Let everyone in your org ship with coding agents,' featuring the company names Runtime and powered by E2B. It has a digital, futuristic look with text set against a dark background and an abstract pattern.
+    description: ""
+    tags: []
+  - id: 100
+    filename: 00100.jpg
+    thumbnail_filename: 00100_thumb.jpg
+    original_path: IMG_9174.HEIC
+    original_hash: sha256:9010976fb93af9c123a5a3eb6832e8f0ad381080059e4a109a0513ffef1e0f20
+    taken_at: 2026-03-29T22:05:52.000Z
+    imported_at: 2026-04-16T02:35:07.396Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.792305
+      lng: -122.4345333333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A bus advertisement for Jacoby & Meyers Injury Lawyers emphasizes their trustworthiness, stating they have been 'Trusted for over 50 years.' The ad features a prominent phone number in bold white text and a black and red color scheme.
+    description: ""
+    tags: []
+  - id: 99
+    filename: 00099.jpg
+    thumbnail_filename: 00099_thumb.jpg
+    original_path: IMG_9173.HEIC
+    original_hash: sha256:f2913cecd0ab7567867d09453fb546024fde57bef88aff715cba2ab75ddbf182
+    taken_at: 2026-03-29T21:53:51.000Z
+    imported_at: 2026-04-16T02:35:03.511Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.778145
+      lng: -122.4351966666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus stop shows several questions related to CRM, followed by the statement 'Ask more from CRM. Ask Attio.' The brand 'Attio' is prominently displayed at the bottom with its logo, set against a simple white background.
+    description: ""
+    tags: []
+  - id: 98
+    filename: 00098.jpg
+    thumbnail_filename: 00098_thumb.jpg
+    original_path: IMG_9163.HEIC
+    original_hash: sha256:a4a4fbe65d280e4e0aec864f13b7978d7bb7673be2bcba0f4682d9453185f15b
+    taken_at: 2026-03-29T02:27:24.000Z
+    imported_at: 2026-04-16T02:34:59.438Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80093333333333
+      lng: -122.4361116666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A PostHog advertisement in San Francisco features a cartoon hedgehog and a blue Porsche 911, with text saying, 'PostHog feels like somebody left me a free Porsche 911 in my garage every morning.' The ad includes the PostHog logo and a note that 'A real person said that.'
+    description: ""
+    tags: []
+  - id: 97
+    filename: 00097.jpg
+    thumbnail_filename: 00097_thumb.jpg
+    original_path: IMG_9159.HEIC
+    original_hash: sha256:6e4f788a399c760b20906801beb026411bcfdfd444c6adcfb399bb87984228e0
+    taken_at: 2026-03-29T01:14:16.000Z
+    imported_at: 2026-04-16T02:34:56.562Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79271666666666
+      lng: -122.4345633333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement promotes the 'AI Startup Pitch-Off' by beelieve, offering a chance to pitch and win $100K at The AI Monetization Conference on April 16 at Fort Mason. The poster features a bright green background with radial stripes and includes a QR code for more information.
+    description: ""
+    tags: []
+  - id: 96
+    filename: 00096.jpg
+    thumbnail_filename: 00096_thumb.jpg
+    original_path: IMG_9158.HEIC
+    original_hash: sha256:98104cb69ef0e5848f3984be4d90c3ac14b1c7c450f59763a6be6e480b4e8637
+    taken_at: 2026-03-29T01:14:06.000Z
+    imported_at: 2026-04-16T02:34:53.490Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.792675
+      lng: -122.4345466666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement for 1Password in San Francisco with the message, 'Let AI agents run without running wild,' promoting identity security for humans and their AI agents. The ad features a bold blue background and white text.
+    description: ""
+    tags: []
+  - id: 95
+    filename: 00095.jpg
+    thumbnail_filename: 00095_thumb.jpg
+    original_path: IMG_9157.HEIC
+    original_hash: sha256:a5a98c3a55b466335ea0b5ec0e1bc415291dc6d4d01c12e8e355d0beaf8d587d
+    taken_at: 2026-03-29T01:13:52.000Z
+    imported_at: 2026-04-16T02:34:50.304Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.792695
+      lng: -122.434555
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco billboard reads 'Agentic Video Editing is Here' and is powered by E2B, featuring a dark background and modern font.
+    description: ""
+    tags: []
+  - id: 94
+    filename: 00094.jpg
+    thumbnail_filename: 00094_thumb.jpg
+    original_path: IMG_9156.HEIC
+    original_hash: sha256:cbea8803c24df7da8c0fe9b613dc4b70c074b592fbeee5798fbf9a2470656ede
+    taken_at: 2026-03-29T01:12:17.000Z
+    imported_at: 2026-04-16T02:34:47.069Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.792225
+      lng: -122.434595
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "The advertisement for Chargebee features the slogan 'Next stop: connected billing' with a subway-style map showing various billing-related terms like Usage Events, Quotes, and Payments. A QR code is prominently displayed alongside the colorful network lines."
+    description: ""
+    tags: []
+  - id: 93
+    filename: 00093.jpg
+    thumbnail_filename: 00093_thumb.jpg
+    original_path: IMG_9155.HEIC
+    original_hash: sha256:00066997157ed0a98d9488303ace5fc9584b691a1f6c8119619214b3bae6b1ef
+    taken_at: 2026-03-29T01:12:09.000Z
+    imported_at: 2026-04-16T02:34:43.888Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79223666666667
+      lng: -122.4345866666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for 1Password features a blue background with the text 'We can keep a secret. In fact, we’re keeping 1.3 billion of them.' It promotes 'Identity security for humans and their AI agents,' highlighting a security-focused theme.
+    description: ""
+    tags: []
+  - id: 92
+    filename: 00092.jpg
+    thumbnail_filename: 00092_thumb.jpg
+    original_path: IMG_9154.HEIC
+    original_hash: sha256:42f5fbeaa5ce2e5437e7c0357673cee0fa88c774ae2108ad395673b7aee150d3
+    taken_at: 2026-03-29T01:11:54.000Z
+    imported_at: 2026-04-16T02:34:40.270Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79220833333333
+      lng: -122.4346083333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement reads 'From Idea to App Store with One Prompt,' showing a pixelated digital face graphic. It's powered by E2B, and the URL e2b.dev/startups is also visible at the bottom of the ad.
+    description: ""
+    tags: []
+  - id: 91
+    filename: 00091.jpg
+    thumbnail_filename: 00091_thumb.jpg
+    original_path: IMG_9153.HEIC
+    original_hash: sha256:1988f0ebc014eac36620f2375abefc37d33dec84c15b7da109771dd30ad124cc
+    taken_at: 2026-03-29T01:11:45.000Z
+    imported_at: 2026-04-16T02:34:32.797Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79223833333333
+      lng: -122.4345083333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement displays the text 'This is how IT should be.' with emphasis on 'IT', promoting the company Serval.ai. It features a bold, minimalistic design with blue and white text on a black background.
+    description: ""
+    tags: []
   - id: 89
     filename: 00089.jpg
     thumbnail_filename: 00089_thumb.jpg
@@ -93,6 +541,22 @@ images:
       lng: -122.411955
     timezone: America/Los_Angeles
     ai_generated_alt_text: A bus advertisement in San Francisco promoting 'Advertise on Streaming TV' with the brand name 'vibe.co' visible. The ad features a purple and black color scheme with bold white and yellow text.
+    description: ""
+    tags: []
+  - id: 90
+    filename: 00090.jpg
+    thumbnail_filename: 00090_thumb.jpg
+    original_path: IMG_9059.HEIC
+    original_hash: sha256:2171894656fedf8f515877683e0646f3cb943cb818c6c553d8c0b4b1a32df2a6
+    taken_at: 2026-03-09T01:17:52.000Z
+    imported_at: 2026-04-16T02:34:29.321Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80228833333334
+      lng: -122.4366133333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the bus promotes 'Instant global money movement using stablecoins' by Bridge, a Stripe company. The bus features a mixed green and blue design with digital patterns.
     description: ""
     tags: []
   - id: 80
