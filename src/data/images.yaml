@@ -1,4 +1,740 @@
 images:
+  - id: 164
+    filename: 00164.jpg
+    thumbnail_filename: 00164_thumb.jpg
+    original_path: IMG_9340.HEIC
+    original_hash: sha256:62e38881daea684e34cc7fdfe649deb59dc5ee641cc650e64fb3fa5e5ae73912
+    taken_at: 2026-04-26T22:52:44.000Z
+    imported_at: 2026-04-29T06:20:33.482Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80518
+      lng: -122.4253783333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "A San Francisco bus advertisement for Qodo AI Code Review, featuring the slogan 'Don't just vibe. Verify.' and 'Fight AI Slop' in large text. It includes a cartoon character using a laptop and the Muni logo, emphasizing 'Next Stop: Quality Code.'"
+    description: ""
+    tags: []
+  - id: 163
+    filename: 00163.jpg
+    thumbnail_filename: 00163_thumb.jpg
+    original_path: IMG_9338.HEIC
+    original_hash: sha256:ac3f3ce580aa5c83541efa9b0df130dbb8a1b93e4a40c54dc6d37817e545543b
+    taken_at: 2026-04-26T22:52:00.000Z
+    imported_at: 2026-04-29T06:20:28.057Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80551666666667
+      lng: -122.4250866666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on the side of a bus promotes French bee with the tagline 'Love at First Flight,' featuring an airplane flying over the Eiffel Tower. It highlights direct flights from San Francisco to Paris, emphasizing low fares with French flair.
+    description: ""
+    tags: []
+  - id: 162
+    filename: 00162.jpg
+    thumbnail_filename: 00162_thumb.jpg
+    original_path: IMG_9337.HEIC
+    original_hash: sha256:ae60df5e1de19cd928286131af45a49375907ef71af7bd7df19da379db739a96
+    taken_at: 2026-04-26T21:38:36.000Z
+    imported_at: 2026-04-29T06:20:22.742Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.94446666666666
+      lng: -122.508805
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for Orangetheory Fitness features a woman lifting weights with the text 'Your commute is passive. Your workout shouldn’t be.' It promotes burning fat and building muscle, offering the first class free at locations in Greenbrae, Mill Valley, and Novato, with QR codes for each site.
+    description: ""
+    tags: []
+  - id: 161
+    filename: 00161.jpg
+    thumbnail_filename: 00161_thumb.jpg
+    original_path: IMG_9334.HEIC
+    original_hash: sha256:4c327d69be3109367c7e67a777b82027e1419ee491a4d2315bb9a11b2ccef555
+    taken_at: 2026-04-26T03:33:55.000Z
+    imported_at: 2026-04-29T06:20:15.174Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.800505
+      lng: -122.4392783333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement by TiDB features a robotic goldfish with the message, 'Your AI agent has a memory of a goldfish. Fix that.' and includes a URL link 'tidb.io/fish' against a dark background.
+    description: ""
+    tags: []
+  - id: 160
+    filename: 00160.jpg
+    thumbnail_filename: 00160_thumb.jpg
+    original_path: IMG_9333.HEIC
+    original_hash: sha256:1cd31c5c820ebafafa7e2036e42e661dda3b2d44d6bdd4fed536dc05eaee0ac6
+    taken_at: 2026-04-26T03:33:48.000Z
+    imported_at: 2026-04-29T06:20:08.874Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80050333333333
+      lng: -122.4392783333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement by Descope promotes 'Passwordless auth for your consumer app' with the tagline 'There's a Flow for that.' It features a flowchart diagram and the company's website, www.descope.com, on a digital screen.
+    description: ""
+    tags: []
+  - id: 159
+    filename: 00159.jpg
+    thumbnail_filename: 00159_thumb.jpg
+    original_path: IMG_9329.HEIC
+    original_hash: sha256:bb2f48dad1d9ec76519bb6860a9fc8453aab3640a629ab93e5e10f4a0c9c2485
+    taken_at: 2026-04-25T20:32:07.000Z
+    imported_at: 2026-04-29T06:20:03.205Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79194166666667
+      lng: -122.3978116666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for 'Replay' conference by Temporal, taking place May 5-7, 2026 in San Francisco, features speaker photos with colorful backgrounds and logos from companies like OpenAI and Replit, and a QR code for more information.
+    description: ""
+    tags: []
+  - id: 158
+    filename: 00158.jpg
+    thumbnail_filename: 00158_thumb.jpg
+    original_path: IMG_9328.HEIC
+    original_hash: sha256:0291175bbd578f1850aa3fe6db748ae8c46daec8cdbc2d642787c06e7e0a1de6
+    taken_at: 2026-04-25T20:31:58.000Z
+    imported_at: 2026-04-29T06:19:57.354Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.791825
+      lng: -122.3976366666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A vibrant poster titled 'Angel Island' features colorful silhouettes and historic figures with text in different languages. The poster is part of the 'Art on Market Street Poster Series' by the San Francisco Arts Commission (sfac) and the San Francisco Municipal Transportation Agency, highlighted by a vivid sunrise background.
+    description: ""
+    tags: []
+  - id: 157
+    filename: 00157.jpg
+    thumbnail_filename: 00157_thumb.jpg
+    original_path: IMG_9327.HEIC
+    original_hash: sha256:67155d3a1f9d3c8fdc1d65cfb665bb654afd6d23a037c2a0cc3d5fa66d927fd5
+    taken_at: 2026-04-25T20:12:52.000Z
+    imported_at: 2026-04-29T06:19:52.504Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78964166666667
+      lng: -122.39592
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement by Apollo at the Salesforce Transit Center in San Francisco promotes engaging 100 prospects quickly, with a vibrant yellow and purple gradient background and the Apollo logo prominently displayed. The ad highlights their service as the '#1 revenue engine powering 3M+ teams' and includes the website apollo.io.
+    description: ""
+    tags: []
+  - id: 156
+    filename: 00156.jpg
+    thumbnail_filename: 00156_thumb.jpg
+    original_path: IMG_9326.HEIC
+    original_hash: sha256:cdced519dffe05027aa14b7a50ce497725890c4b3e23e28f111209b00475d722
+    taken_at: 2026-04-25T20:12:34.000Z
+    imported_at: 2026-04-29T06:19:47.165Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.78973
+      lng: -122.3961633333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement displays the brand name 'delight.ai' in bold text with an asterisk-like logo on a bright background. The screen is interactive, as indicated by touch instructions in multiple languages on the sides.
+    description: ""
+    tags: []
+  - id: 155
+    filename: 00155.jpg
+    thumbnail_filename: 00155_thumb.jpg
+    original_path: IMG_9325.HEIC
+    original_hash: sha256:1eacef7e66f4e2fd8397c75022f5913f493e0d81b5059ccfc39793ebb3fcbd1c
+    taken_at: 2026-04-25T20:12:26.000Z
+    imported_at: 2026-04-29T06:19:42.191Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.789695
+      lng: -122.3962466666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement promotes free events at Salesforce Park, showcasing activities such as Nature Walks, Arts & Culture, Fitness & Wellness provided by Family Fun, and Live Music. A QR code is centered, with vibrant images of people engaged in various activities set against a lively background.
+    description: ""
+    tags: []
+  - id: 154
+    filename: 00154.jpg
+    thumbnail_filename: 00154_thumb.jpg
+    original_path: IMG_9324.HEIC
+    original_hash: sha256:d2bac70da99bd47f7345fab47c9866563ed159bfe39fd09b4e2fc6288262a6fa
+    taken_at: 2026-04-25T20:12:21.000Z
+    imported_at: 2026-04-29T06:19:37.911Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.78965333333333
+      lng: -122.39585
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement at the Salesforce Transit Center reads 'Our support agent is a smart AaaS. Agent as a Service' with an image of a peach. Distinctive features include a peach illustration and the use of large, bold text on a purple background.
+    description: ""
+    tags: []
+  - id: 153
+    filename: 00153.jpg
+    thumbnail_filename: 00153_thumb.jpg
+    original_path: IMG_9320.HEIC
+    original_hash: sha256:9944e8c052c01f9ec8061218b80ab20fa2f6cb58c7e2201903ff0fe7ac1a9e44
+    taken_at: 2026-04-23T15:11:14.000Z
+    imported_at: 2026-04-29T06:19:34.462Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80465333333333
+      lng: -122.4250633333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: An advertisement on a bus for Vendia displaying the text 'Data sharing. Drop the ball wisely.' with an image of a French Bulldog holding a ball. The ad emphasizes secure and seamless connections.
+    description: ""
+    tags: []
+  - id: 152
+    filename: 00152.jpg
+    thumbnail_filename: 00152_thumb.jpg
+    original_path: IMG_9319.HEIC
+    original_hash: sha256:c996d791884d9eaa04760996650a713a9a57548d6dac658304378e21aec13db9
+    taken_at: 2026-04-23T04:05:47.000Z
+    imported_at: 2026-04-29T06:19:29.496Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.80457
+      lng: -122.424745
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a profile of a person wearing an earpiece, promoting 'Lightfield Natural Language CRM.' The text emphasizes it is 'Architected for Agents,' with 'Built in San Francisco, CA' mentioned at the bottom, accompanied by minimalist design and light tones.
+    description: ""
+    tags: []
+  - id: 151
+    filename: 00151.jpg
+    thumbnail_filename: 00151_thumb.jpg
+    original_path: IMG_9318.HEIC
+    original_hash: sha256:95d8e8740a63be41b37f8b16ebccf9795454b3f37afa192b7831f393f62a34e4
+    taken_at: 2026-04-23T02:46:18.000Z
+    imported_at: 2026-04-29T06:19:25.608Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80505
+      lng: -122.4118283333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "The billboard advertisement for Apollo features a colorful abstract background with the text: 'Find and engage your next 100 prospects in the time it takes to read this ad.' It also highlights Apollo as 'The #1 revenue engine powering 3M+ teams' and provides the website apollo.io."
+    description: ""
+    tags: []
+  - id: 150
+    filename: 00150.jpg
+    thumbnail_filename: 00150_thumb.jpg
+    original_path: IMG_9317.HEIC
+    original_hash: sha256:2cc4322916f6bbb36a608960928c27bcf62716fc21cb1a6de088a0ef2bb93cef
+    taken_at: 2026-04-23T02:46:10.000Z
+    imported_at: 2026-04-29T06:19:19.795Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80505
+      lng: -122.4117966666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement promotes an exclusive Pokémon collection available at Target starting May 2, featuring a Pikachu-themed tote bag, a hoodie, and colorful balloons against a sky background. The text announces it's for a limited time only.
+    description: ""
+    tags: []
+  - id: 149
+    filename: 00149.jpg
+    thumbnail_filename: 00149_thumb.jpg
+    original_path: IMG_9311.HEIC
+    original_hash: sha256:8ff513e64b810ffe529e5f7afbd3fe3d162cb0d9c3d62db807caace12df3b94f
+    taken_at: 2026-04-21T02:37:59.000Z
+    imported_at: 2026-04-29T06:19:13.046Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80095
+      lng: -122.4364083333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features 'POSTHOG AI' in bold text, with a Godzilla-like creature breaking through a building, highlighting the tagline 'The Legend is Reborn'. The ad promotes 'PostHog' as 'your favorite product operating system like you’ve never seen it before!' with a distinctive comic-book style.
+    description: ""
+    tags: []
+  - id: 148
+    filename: 00148.jpg
+    thumbnail_filename: 00148_thumb.jpg
+    original_path: IMG_9310.HEIC
+    original_hash: sha256:13e99306f2a68e5a3452e37b214166195533eb1ef00379e3389a67eb21bff73c
+    taken_at: 2026-04-21T02:37:26.000Z
+    imported_at: 2026-04-29T06:19:06.116Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.800995
+      lng: -122.4362633333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus promotes health benefits with the message 'Health benefits from the future' and mentions the brand Thatch. The visual features a purple and red color scheme with the Thatch logo and text about flexible healthcare.
+    description: ""
+    tags: []
+  - id: 147
+    filename: 00147.jpg
+    thumbnail_filename: 00147_thumb.jpg
+    original_path: IMG_9309.HEIC
+    original_hash: sha256:1524b652367154686462dd771eebf1a5ff4d4d3b994d22491488a99bbf21a827
+    taken_at: 2026-04-21T02:23:28.000Z
+    imported_at: 2026-04-29T06:19:02.084Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80458333333333
+      lng: -122.4161833333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a woman with striking purple eyes and reads 'Ava 2.0 replies to leads fully autonomously' above the brand name ARTISAN on a purple background. Distinctive visual elements include the purple color theme and the futuristic design.
+    description: ""
+    tags: []
+  - id: 146
+    filename: 00146.jpg
+    thumbnail_filename: 00146_thumb.jpg
+    original_path: IMG_9304.HEIC
+    original_hash: sha256:6b79022663240b314685cb8a624c13795d720ce4320d8ecf8bffd3fdb4cbfad8
+    taken_at: 2026-04-20T00:12:18.000Z
+    imported_at: 2026-04-29T06:18:54.292Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.800945
+      lng: -122.4366133333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus reads 'AI THAT HIDES NOTHING' and features the Sage logo. The bus is labeled as a Clean Air Vehicle, and the ad has a distinctive green and black color scheme.
+    description: ""
+    tags: []
+  - id: 145
+    filename: 00145.jpg
+    thumbnail_filename: 00145_thumb.jpg
+    original_path: IMG_9298.HEIC
+    original_hash: sha256:277d8b3231e5ee8285d825c5fdc33a047e8b485beac2caaa9d7f1216736038cc
+    taken_at: 2026-04-19T18:33:28.000Z
+    imported_at: 2026-04-29T06:18:48.165Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80072833333333
+      lng: -122.4363166666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A bus advertisement for Numeric, featuring a purple background with snowflake designs, stating 'Less .XLSX this XMAS' and 'Get a gift for your Controller at NUMERIC.IO/XMAS.'
+    description: ""
+    tags: []
+  - id: 144
+    filename: 00144.jpg
+    thumbnail_filename: 00144_thumb.jpg
+    original_path: IMG_9293.HEIC
+    original_hash: sha256:1fcc4b2030f4ede6801ede1e1bd7d61380e22b00513a227ea5a904cce77568b8
+    taken_at: 2026-04-18T22:59:31.000Z
+    imported_at: 2026-04-29T06:18:38.941Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.789995
+      lng: -122.4341366666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a credit card from Slash with the slogan 'THE BAR JUST RAISED' and the website 'slash.com/seriesc'. The card design is sleek, with a metallic finish, and the background shows a stack of various credit cards.
+    description: ""
+    tags: []
+  - id: 143
+    filename: 00143.jpg
+    thumbnail_filename: 00143_thumb.jpg
+    original_path: IMG_9292.HEIC
+    original_hash: sha256:23e83e51e66d6e4977a702c1e3750e8cd549f5661ee505f37726c1cb319061e9
+    taken_at: 2026-04-18T22:59:26.000Z
+    imported_at: 2026-04-29T06:18:31.705Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78998666666666
+      lng: -122.4341133333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the company Fathom, showcasing an astronaut illustration with the text 'It's your call' and mentions LLM-friendly AI meeting tools. The background includes a cosmic theme with planets and space elements.
+    description: ""
+    tags: []
+  - id: 142
+    filename: 00142.jpg
+    thumbnail_filename: 00142_thumb.jpg
+    original_path: IMG_9290.HEIC
+    original_hash: sha256:9f9bb6a5bcb71a67d1c31f1d6a0a195ee9c097ae99d72556635224d01835f94a
+    taken_at: 2026-04-18T22:59:14.000Z
+    imported_at: 2026-04-29T06:18:24.412Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78998
+      lng: -122.4341583333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement from incident.io displays the text 'With great product comes great reliability. We're on-call for Zapier.' on a bright red background, with the incident.io logo and tagline 'Keeping the world's software running' at the top.
+    description: ""
+    tags: []
+  - id: 141
+    filename: 00141.jpg
+    thumbnail_filename: 00141_thumb.jpg
+    original_path: IMG_9289.HEIC
+    original_hash: sha256:cd5d8ca50eb35e73dc7e1e67258154702a16880593fab7a665942ec345c8ee60
+    taken_at: 2026-04-18T22:59:08.000Z
+    imported_at: 2026-04-29T06:18:16.703Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78998
+      lng: -122.4341583333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for Doppel reads 'Looks like a login link, may cause a breach,' with a call to protect organizations using AI-native social engineering defense. The text is displayed on a reflective background, featuring the brand name at the top.
+    description: ""
+    tags: []
+  - id: 140
+    filename: 00140.jpg
+    thumbnail_filename: 00140_thumb.jpg
+    original_path: IMG_9287.HEIC
+    original_hash: sha256:eeceef8bff8f6fee2311f6ad7d0c46ea716023f6e68bf8ec7ca93a78e3da5182
+    taken_at: 2026-04-18T22:58:51.000Z
+    imported_at: 2026-04-29T06:18:09.485Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79001166666666
+      lng: -122.4341716666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for Chargebee reads 'Connecting every mile of your billing journey' and features a colorful map-like design illustrating various billing processes. The Chargebee logo is visible at the top of the ad.
+    description: ""
+    tags: []
+  - id: 139
+    filename: 00139.jpg
+    thumbnail_filename: 00139_thumb.jpg
+    original_path: IMG_9286.HEIC
+    original_hash: sha256:ab113e70f95f74fdc2e36729b64833cc10254c86ac84517e4cf39976a2b8de2e
+    taken_at: 2026-04-18T22:58:43.000Z
+    imported_at: 2026-04-29T06:18:03.293Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.79005833333333
+      lng: -122.43412
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a bold text reading 'Glam Now, Pay Later' with an image of a red lipstick in the center, promoting PayPal's service for paying later with no fees or interest. The PayPal logo is displayed at the bottom, alongside options to 'Pay Now', 'Pay in 4', or 'Pay Monthly' on a smartphone icon.
+    description: ""
+    tags: []
+  - id: 138
+    filename: 00138.jpg
+    thumbnail_filename: 00138_thumb.jpg
+    original_path: IMG_9284.HEIC
+    original_hash: sha256:1d3a8905b6ab1036db1e59310c2f90516044d3999736249f6a6ad4213a341978
+    taken_at: 2026-04-18T22:29:45.000Z
+    imported_at: 2026-04-29T06:17:56.756Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80087833333333
+      lng: -122.43612
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement at a bus stop in San Francisco features the brand 'PostHog,' displaying a playful graphic of a hedgehog next to a blue Porsche 911. The text reads, 'POSTHOG FEELS LIKE SOMEBODY LEFT ME A FREE PORSCHE 911 IN MY GARAGE EVERY MORNING,' emphasizing the enjoyment of using their product.
+    description: ""
+    tags: []
+  - id: 137
+    filename: 00137.jpg
+    thumbnail_filename: 00137_thumb.jpg
+    original_path: IMG_9282.HEIC
+    original_hash: sha256:6b53bf9a5d80a6fcb9fd4c0ad899149617e1da3889ed2693f6eec526fd438ff3
+    taken_at: 2026-04-18T20:35:06.000Z
+    imported_at: 2026-04-29T06:17:50.005Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78761333333333
+      lng: -122.406075
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: An advertisement for Cresta, featuring a man on a phone with the text 'AI Agents that pass the just get me out of here test.' The design emphasizes the company's focus on AI for customer experience.
+    description: ""
+    tags: []
+  - id: 136
+    filename: 00136.jpg
+    thumbnail_filename: 00136_thumb.jpg
+    original_path: IMG_9281.HEIC
+    original_hash: sha256:a57151254c5000c0cd381b167412e513e5f9f3091f6e79e8d56a33f72628659a
+    taken_at: 2026-04-18T20:34:59.000Z
+    imported_at: 2026-04-29T06:17:42.150Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78760833333333
+      lng: -122.4060533333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement celebrates 125 years of San Francisco Public Works with historic images and the slogan 'Born to serve since 1900. Take a trip through history.' The visuals include vintage photographs of the city, adding a nostalgic touch.
+    description: ""
+    tags: []
+  - id: 135
+    filename: 00135.jpg
+    thumbnail_filename: 00135_thumb.jpg
+    original_path: IMG_9280.HEIC
+    original_hash: sha256:75c129546d51797de0e64c948853d6af1e738071fad9cd8a95c0d2aeee8badd9
+    taken_at: 2026-04-18T20:34:49.000Z
+    imported_at: 2026-04-29T06:17:33.793Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78763666666666
+      lng: -122.4060583333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement is for Square, featuring text that highlights how The Epicurean Trader scaled from hand-selected farmhouse cheeses to 3,500+ SKUs. It includes an image of two people working together and a QR code for more information.
+    description: ""
+    tags: []
+  - id: 134
+    filename: 00134.jpg
+    thumbnail_filename: 00134_thumb.jpg
+    original_path: IMG_9279.HEIC
+    original_hash: sha256:c2f5cfaf458fdbfcbcbb034b9ea02a8ee639d5d7dd9189bd0313bf60365eb3bd
+    taken_at: 2026-04-18T20:34:18.000Z
+    imported_at: 2026-04-29T06:17:25.939Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78767
+      lng: -122.4060366666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco billboard features 'ChatGPT' with an image of two people working at a desk. The ad is displayed on a JCDecaux digital board, set against a busy city street background.
+    description: ""
+    tags: []
+  - id: 133
+    filename: 00133.jpg
+    thumbnail_filename: 00133_thumb.jpg
+    original_path: IMG_9278.HEIC
+    original_hash: sha256:3ec895cb524d7977c29598e498f02f4da128fa217afcecda79bc710e2e36ecde
+    taken_at: 2026-04-18T20:34:11.000Z
+    imported_at: 2026-04-29T06:17:18.197Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.78768
+      lng: -122.4060366666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement for JPMorgan Chase features the text 'Ambition Blooms Downtown' with an image of yellow tulips, and mentions their support of the Bay Area's growth for 120+ years. It includes the website jpmorganchase.com/bayarea and has a modern, clean design.
+    description: ""
+    tags: []
+  - id: 132
+    filename: 00132.jpg
+    thumbnail_filename: 00132_thumb.jpg
+    original_path: IMG_9277.HEIC
+    original_hash: sha256:365240755f3c086de05ed9cabca61ddacb4a072657942afcb8c6792824efbb59
+    taken_at: 2026-04-18T20:29:00.000Z
+    imported_at: 2026-04-29T06:17:09.592Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79077166666666
+      lng: -122.3997033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a blue and white design with the message 'BUILT FOR THE REAL WORLD' and a list of technical features, representing the brand DOSS. The company's logo and website doss.com are prominently displayed.
+    description: ""
+    tags: []
+  - id: 131
+    filename: 00131.jpg
+    thumbnail_filename: 00131_thumb.jpg
+    original_path: IMG_9276.HEIC
+    original_hash: sha256:1f325eec86a813a310c7a90bc3633fa48179d9ccc1d050ab704831cc959fd9ca
+    taken_at: 2026-04-18T20:28:52.000Z
+    imported_at: 2026-04-29T06:17:05.708Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79077833333334
+      lng: -122.3997033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement says 'Raise rounds, not tax liabilities' with the brand name 'anrok' below, followed by the tagline 'Global tax on autopilot.' The ad features a simple black background with white text, making it visually striking.
+    description: ""
+    tags: []
+  - id: 130
+    filename: 00130.jpg
+    thumbnail_filename: 00130_thumb.jpg
+    original_path: IMG_9275.HEIC
+    original_hash: sha256:8fe6386bb9c6e0c85f983aef69caf406e77054dd7fc72abd14223b6028c51afd
+    taken_at: 2026-04-18T20:28:36.000Z
+    imported_at: 2026-04-29T06:17:01.240Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.790825
+      lng: -122.39975
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement for Postman featuring an orange background with the question, 'Are your APIs ready for AI agents?' along with the Postman logo and website URL www.postman.com.
+    description: ""
+    tags: []
+  - id: 129
+    filename: 00129.jpg
+    thumbnail_filename: 00129_thumb.jpg
+    original_path: IMG_9274.HEIC
+    original_hash: sha256:9ddba74d358bfad0019d6c22e887ea9fb42efedfc259874b2482cf396459399b
+    taken_at: 2026-04-18T20:28:27.000Z
+    imported_at: 2026-04-29T06:16:57.110Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.79088333333333
+      lng: -122.3998116666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement displays the message "$1.38 H100s" with the brand name Thunder Compute at the bottom. The billboard is framed by trees and situated on a brick sidewalk in an urban setting.
+    description: ""
+    tags: []
+  - id: 128
+    filename: 00128.jpg
+    thumbnail_filename: 00128_thumb.jpg
+    original_path: IMG_9273.HEIC
+    original_hash: sha256:b2bdcc9051c6a6bef0dcb8de328530de2d8f6e7de1196b79403404636987c39c
+    taken_at: 2026-04-18T20:28:20.000Z
+    imported_at: 2026-04-29T06:16:52.463Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.790955
+      lng: -122.3998716666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the Square brand, highlighting its services with the text 'From hand-selected farmhouse cheeses to 3,500+ SKUs.' It includes an image of two people holding products with an overlay of text about The Epicurean Trader scaling with Square.
+    description: ""
+    tags: []
+  - id: 127
+    filename: 00127.jpg
+    thumbnail_filename: 00127_thumb.jpg
+    original_path: IMG_9272.HEIC
+    original_hash: sha256:a907ee1d1cb66457c4ba1cfc48469eebfb645973055fc5783580c545b553cb79
+    taken_at: 2026-04-18T20:28:06.000Z
+    imported_at: 2026-04-29T06:16:47.639Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.791095
+      lng: -122.3999333333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement in San Francisco features a pink background with the text 'Start sales-maxxing with nooks,' promoting 'Agent Workspace for Sales.' The brand name 'nooks.ai' is visible, and geometric shapes are part of the design.
+    description: ""
+    tags: []
+  - id: 126
+    filename: 00126.jpg
+    thumbnail_filename: 00126_thumb.jpg
+    original_path: IMG_9265.HEIC
+    original_hash: sha256:4d5a50a29316fb76245a5b0728a6eaae97c47178139f39d96e0b8c91347787c0
+    taken_at: 2026-04-18T16:39:13.000Z
+    imported_at: 2026-04-29T06:16:41.873Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.77327833333333
+      lng: -122.4202033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement in a San Francisco subway station features the brand name 'Zoho' above the words 'Unified Business Software,' with colorful letters forming the logo.
+    description: ""
+    tags: []
+  - id: 125
+    filename: 00125.jpg
+    thumbnail_filename: 00125_thumb.jpg
+    original_path: IMG_9259.HEIC
+    original_hash: sha256:f09bc1ceb701e74be536fc1a8e20123aac0f4829e5dc98bb98740a16a716f3cb
+    taken_at: 2026-04-17T02:45:12.000Z
+    imported_at: 2026-04-29T06:16:36.607Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80499666666667
+      lng: -122.4252916666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A city bus wrapped in an advertisement for Pump.co, featuring the phrase 'FREE MONEY' and images of U.S. dollar bills, with the brand name prominently displayed alongside yellow checkmark icons.
+    description: ""
+    tags: []
+  - id: 124
+    filename: 00124.jpg
+    thumbnail_filename: 00124_thumb.jpg
+    original_path: IMG_9254.HEIC
+    original_hash: sha256:ead7594498ed02654d2fb75e8bd0ba1836aff15dabd26a152992d3faaca02ccc
+    taken_at: 2026-04-16T03:04:35.000Z
+    imported_at: 2026-04-29T06:16:30.751Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.80521166666666
+      lng: -122.4253616666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus features text promoting Delve.co, with phrases like 'Engineering tried. Compliance cried. Delve unified.' The bus is painted red with bold white text and the Delve.co logo visible.
+    description: ""
+    tags: []
+  - id: 123
+    filename: 00123.jpg
+    thumbnail_filename: 00123_thumb.jpg
+    original_path: IMG_9253.HEIC
+    original_hash: sha256:189718e368ee407d60118b4af1ad3e27cee851acb0bf6693072f68140152dc6e
+    taken_at: 2026-04-16T02:50:10.000Z
+    imported_at: 2026-04-29T06:16:25.110Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80505833333333
+      lng: -122.4119033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the text 'Keep full context The perpetual sandbox' with the brand name 'blaxel' displayed below, set against a dotted digital background.
+    description: ""
+    tags: []
+  - id: 122
+    filename: 00122.jpg
+    thumbnail_filename: 00122_thumb.jpg
+    original_path: IMG_9252.HEIC
+    original_hash: sha256:27829626f8cb48a05c8427ae3db0c82098f8f44f5389b6b34ede1bc8f9451b26
+    taken_at: 2026-04-16T02:50:02.000Z
+    imported_at: 2026-04-29T06:16:18.820Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80503
+      lng: -122.41188
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement for Codex displaying a hands-on electronic project with wires and a small LCD screen, accompanied by the text 'YOU CAN JUST BUILD THINGS.'
+    description: ""
+    tags: []
+  - id: 121
+    filename: 00121.jpg
+    thumbnail_filename: 00121_thumb.jpg
+    original_path: IMG_9251.HEIC
+    original_hash: sha256:e73266d187102da37e587d6b7de6fa0759ead65cd0576d6248859acf3d60b13a
+    taken_at: 2026-04-16T02:49:47.000Z
+    imported_at: 2026-04-29T06:16:12.234Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80504666666667
+      lng: -122.4119033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement for San Francisco Small Business Week, taking place from May 4-9, 2026, featuring an illustration of a large blue tie resembling skyscrapers against a sunset backdrop with the Golden Gate Bridge. The event is hosted by the San Francisco Chamber of Commerce, with the theme 'Scaling Bridges' prominently displayed.
+    description: ""
+    tags: []
+  - id: 120
+    filename: 00120.jpg
+    thumbnail_filename: 00120_thumb.jpg
+    original_path: IMG_9250.HEIC
+    original_hash: sha256:a5c5c144d0b1740d31bb9cdacf37689df2b3bcda00a15a58c7051599a5ac0e4c
+    taken_at: 2026-04-16T02:49:38.000Z
+    imported_at: 2026-04-29T06:16:04.895Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80505333333333
+      lng: -122.4118883333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: "The advertisement features a testimonial: 'Rovo helped Datasite stay focused on what matters most – our customers,' highlighting Atlassian's Rovo product. Visual elements include colorful geometric shapes and text indicating success metrics like reclaiming meetings and saving money."
+    description: ""
+    tags: []
+  - id: 119
+    filename: 00119.jpg
+    thumbnail_filename: 00119_thumb.jpg
+    original_path: IMG_9249.HEIC
+    original_hash: sha256:43a4860dd28620bd06a8d72f53386e7b7487b4534bd0c4834523eeb6a9813d23
+    taken_at: 2026-04-16T02:49:29.000Z
+    imported_at: 2026-04-29T06:15:58.480Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80504166666667
+      lng: -122.4118583333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: An advertisement for Choice Privileges promoting their new loyalty program, featuring an image of a tropical resort with palm trees and lounge chairs by a pool, with a QR code and 'Join Now' text at the bottom.
+    description: ""
+    tags: []
   - id: 118
     filename: 00118.jpg
     thumbnail_filename: 00118_thumb.jpg
