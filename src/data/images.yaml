@@ -1,4 +1,164 @@
 images:
+  - id: 174
+    filename: 00174.jpg
+    thumbnail_filename: 00174_thumb.jpg
+    original_path: IMG_9591.HEIC
+    original_hash: sha256:7e12520b6bdb179bc5b793cbd84a9664bb9c8f2aa80e7235d8c4715bb71d43b9
+    taken_at: 2026-05-10T23:30:32.000Z
+    imported_at: 2026-05-11T04:28:40.923Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.7898
+      lng: -122.4338833333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco bus features the Arize brand logo with the slogan 'Are your agents working?' in large text. Distinctive visual elements include the route sign displaying '1 California' and the MUNI logo on the bus.
+    description: ""
+    tags: []
+  - id: 173
+    filename: 00173.jpg
+    thumbnail_filename: 00173_thumb.jpg
+    original_path: IMG_9588.HEIC
+    original_hash: sha256:08e81f8516e98fb7ab5fe2cc683198ed867b96c8eb89bcf735b1dda04ea83bdf
+    taken_at: 2026-05-10T22:37:02.000Z
+    imported_at: 2026-05-11T04:28:36.517Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.797955
+      lng: -122.4357
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: Advertisement on the rear window of a truck for Global Bunkers US, offering Panic Rooms and Safe Rooms with a contact number (415) 990-8051. The sign includes flags from various countries and a website address, globalbunkers.us.
+    description: ""
+    tags: []
+  - id: 172
+    filename: 00172.jpg
+    thumbnail_filename: 00172_thumb.jpg
+    original_path: IMG_9587.HEIC
+    original_hash: sha256:80761bffab23de73a34f088e347753ae9d3f86256694e59ad75b13afc1bed446
+    taken_at: 2026-05-10T22:34:41.000Z
+    imported_at: 2026-05-11T04:28:31.282Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.79977
+      lng: -122.4361033333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement on a San Francisco MUNI bus features text reading 'Looks like your CEO, might be a deepfake,' promoting the company Doppel for AI-native social engineering defense, against a black and white background.
+    description: ""
+    tags: []
+  - id: 171
+    filename: 00171.jpg
+    thumbnail_filename: 00171_thumb.jpg
+    original_path: IMG_9569.HEIC
+    original_hash: sha256:9847bd56dc935e0f93bb3dcf9949eef0189622ff9c7392e92f62e3cb128389fe
+    taken_at: 2026-05-08T22:44:37.000Z
+    imported_at: 2026-05-11T04:28:27.567Z
+    width: 4032
+    height: 3024
+    location:
+      lat: 37.80728666666667
+      lng: -122.4120333333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: A bus advertisement in San Francisco for Rinse, displaying a message that reads, 'We'll take the laundry, so you can take the time to become the person your dog thinks you are.' The ad is set against a blue background on the side of a red and gray bus.
+    description: ""
+    tags: []
+  - id: 170
+    filename: 00170.jpg
+    thumbnail_filename: 00170_thumb.jpg
+    original_path: IMG_9565.HEIC
+    original_hash: sha256:a968d85bdf85e94d941431b52dfd22cf570a02672837238b526b4e21609f6ba7
+    taken_at: 2026-05-06T15:06:43.000Z
+    imported_at: 2026-05-11T04:28:23.430Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80506333333334
+      lng: -122.4119416666667
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a scenic mountain landscape with the text 'Tune In Out There' and the Arc'teryx logo at the bottom. It promotes the Arc'teryx brand, known for outdoor gear, against a backdrop of rugged nature.
+    description: ""
+    tags: []
+  - id: 169
+    filename: 00169.jpg
+    thumbnail_filename: 00169_thumb.jpg
+    original_path: IMG_9564.HEIC
+    original_hash: sha256:2128d26bb579523c10c1f5076e851100a2d62b1a3e04d3d219873770440daf75
+    taken_at: 2026-05-06T15:06:35.000Z
+    imported_at: 2026-05-11T04:28:16.883Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80527166666667
+      lng: -122.411955
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features the text 'KPMG Private' and 'MAKE BOLD MOVES' over an image of a city skyline at night, with a glowing blue border effect. The KPMG logo is visible at the bottom, alongside a QR code.
+    description: ""
+    tags: []
+  - id: 168
+    filename: 00168.jpg
+    thumbnail_filename: 00168_thumb.jpg
+    original_path: IMG_9563.HEIC
+    original_hash: sha256:df0242d101c814d0979365b60521949da86aec38ca0dc8ca1e57e7622884df1e
+    taken_at: 2026-05-05T20:26:01.000Z
+    imported_at: 2026-05-11T04:28:10.359Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.80871166666667
+      lng: -122.4124133333333
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features text 'For the most AI-pilled GTM teams' and promotes Actively, a company focusing on intelligence-led revenue, with a striking colorful visual resembling a prism or light beam. The website actively.ai is also displayed.
+    description: ""
+    tags: []
+  - id: 167
+    filename: 00167.jpg
+    thumbnail_filename: 00167_thumb.jpg
+    original_path: IMG_9557.HEIC
+    original_hash: sha256:189526ea3f821a04be41c2c6deddbf6a28b98127318675031c809210a277ec5b
+    taken_at: 2026-05-04T19:20:30.000Z
+    imported_at: 2026-05-11T04:28:05.487Z
+    width: 3024
+    height: 4032
+    location:
+      lat: 37.49326333333333
+      lng: -119.973045
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a message criticizing Sacramento policies, stating 'Now you pay more,' with a car entangled in a fuel hose, emphasizing reliance on foreign oil. The ad is by Chevron and includes a QR code for further information.
+    description: ""
+    tags: []
+  - id: 166
+    filename: 00166.jpg
+    thumbnail_filename: 00166_thumb.jpg
+    original_path: IMG_9556.HEIC
+    original_hash: sha256:4c3b0464939889c0c7489f21ad80877442300e3e900549d854de0dd6ed2a70bb
+    taken_at: 2026-05-04T19:14:21.000Z
+    imported_at: 2026-05-11T04:28:01.850Z
+    width: 4284
+    height: 5712
+    location:
+      lat: 37.49344166666667
+      lng: -119.973275
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement features a red background with the message 'You just bought a quarter-tank of taxes and fees' alongside a QR code, encouraging action. It is positioned on a gas station's trash and towel dispenser, with a backdrop of a scenic street view.
+    description: ""
+    tags: []
+  - id: 165
+    filename: 00165.jpg
+    thumbnail_filename: 00165_thumb.jpg
+    original_path: IMG_9375.HEIC
+    original_hash: sha256:c575580e921867243b94bccafb96c02b1d19d64b2a0862148e650dae8b7d3d3b
+    taken_at: 2026-05-01T02:43:56.000Z
+    imported_at: 2026-05-11T04:27:55.778Z
+    width: 5712
+    height: 4284
+    location:
+      lat: 37.95228833333334
+      lng: -120.42443
+    timezone: America/Los_Angeles
+    ai_generated_alt_text: The advertisement displays a purple sign with a map of California filled with dollar signs, stating 'California has the highest gas taxes and fees in America.' It includes a QR code with an instruction to 'Scan to take action.'
+    description: ""
+    tags: []
   - id: 164
     filename: 00164.jpg
     thumbnail_filename: 00164_thumb.jpg
